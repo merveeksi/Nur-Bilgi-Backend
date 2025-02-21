@@ -17,3 +17,6 @@
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Application.dll
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Application.pdb
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.genruntimeconfig.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/refint/NurBilgi.Infrastructure.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.pdb

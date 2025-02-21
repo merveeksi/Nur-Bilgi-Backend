@@ -4,13 +4,14 @@ using NurBilgi.Domain.Enum;
 
 namespace NurBilgi.Domain.Entities;
 
-public sealed class Favorite : EntityBase<long>
+public sealed class Favorite
 {
+    public long Id { get; set; }
     public FavoriteContentType ContentType { get; set; }
     public long ContentId { get; set; }
     // Foreign keys
-    public long UserId { get; set; }
+    public long CustomerId { get; set; }
     
     // Navigation properties
-    public User User { get; set; }
+    public Customer Customer { get; set; }
 } 

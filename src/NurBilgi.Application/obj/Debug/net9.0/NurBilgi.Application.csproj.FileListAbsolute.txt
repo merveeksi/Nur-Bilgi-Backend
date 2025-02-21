@@ -13,3 +13,15 @@
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/refint/NurBilgi.Application.dll
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.pdb
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/ref/NurBilgi.Application.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.csproj.AssemblyReference.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.Resources.Validations.Translations.ValidationTranslations.en-US.resources
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.Resources.Validations.Translations.ValidationTranslations.tr-TR.resources
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.csproj.GenerateResource.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.AssemblyInfoInputs.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.AssemblyInfo.cs
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.csproj.CoreCompileInputs.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.sourcelink.json
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/refint/NurBilgi.Application.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.pdb

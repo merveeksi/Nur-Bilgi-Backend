@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/NurBilgi.Mobile.app

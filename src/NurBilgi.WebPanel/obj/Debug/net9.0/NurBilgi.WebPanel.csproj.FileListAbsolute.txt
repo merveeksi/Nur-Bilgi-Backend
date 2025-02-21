@@ -1177,3 +1177,6 @@
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-mbyqvljj9m.gz
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-3h2iil24u6.gz
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/xe7nrl163m-y5ftbw18o3.gz
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/NurBilgi.WebPanel.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/refint/NurBilgi.WebPanel.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/NurBilgi.WebPanel.pdb

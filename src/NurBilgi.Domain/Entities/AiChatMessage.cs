@@ -1,16 +1,35 @@
 using NurBilgi.Domain.Common.Entities;
+using NurBilgi.Domain.DomainEvents;
+using TSID.Creator.NET;
 
 namespace NurBilgi.Domain.Entities;
 
 public sealed class AiChatMessage : EntityBase<long>
 {
     public string MessageText { get; set; } = string.Empty;
-    public bool IsUserMessage { get; set; }
+    public bool IsCustomerMessage { get; set; }
     public DateTimeOffset Timestamp { get; set; }
     
     // Foreign keys
-    public long UserId { get; set; }
+    public long CustomerId { get; set; }
     
     // Navigation properties
-    public User User { get; set; }
+    public Customer Customer { get; set; }
+
+    public static AiChatMessage Create(string messageText, bool isCustomerMessage, DateTimeOffset timestamp, long customerId)
+    {
+        var aiChatMessage = new AiChatMessage
+        {
+            Id = TsidCreator.GetTsid().ToLong(),
+            MessageText = messageText,
+            IsCustomerMessage = isCustomerMessage,
+            Timestamp = timestamp,
+            CustomerId = customerId
+        };
+        
+        aiChatMessage.RaiseDomainEvent(new AiChatMessageCreatedDomainEvent(aiChatMessage.Id));
+
+        return aiChatMessage;
+    }
+    
 } 

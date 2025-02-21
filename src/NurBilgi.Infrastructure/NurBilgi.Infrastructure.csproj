@@ -12,7 +12,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Persistence\EntityFramework\Configurations\" />
       <Folder Include="Persistence\EntityFramework\Migrations\" />
     </ItemGroup>
 

@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[2.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[9.0.2, )"

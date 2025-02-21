@@ -14,6 +14,63 @@
       <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
       <PackageReference Include="MediatR" Version="12.4.1" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+      <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="9.0.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Features\AiChatMessages\Commands\Update\" />
+      <Folder Include="Features\AiChatMessages\Queries\GetAll\" />
+      <Folder Include="Features\AiChatMessages\Queries\GetById\" />
+      <Folder Include="Features\Customers\Commands\Create\" />
+      <Folder Include="Features\Customers\Commands\Delete\" />
+      <Folder Include="Features\Customers\Commands\Update\" />
+      <Folder Include="Features\Customers\Queries\GetAll\" />
+      <Folder Include="Features\Customers\Queries\GetById\" />
+      <Folder Include="Features\DailyDuas\Commands\Create\" />
+      <Folder Include="Features\DailyDuas\Commands\Delete\" />
+      <Folder Include="Features\DailyDuas\Commands\Update\" />
+      <Folder Include="Features\DailyDuas\Queries\GetAll\" />
+      <Folder Include="Features\DailyDuas\Queries\GetById\" />
+      <Folder Include="Features\Favorites\Commands\Delete\" />
+      <Folder Include="Features\Favorites\Commands\Update\" />
+      <Folder Include="Features\Favorites\Queries\GetAll\" />
+      <Folder Include="Features\Favorites\Queries\GetById\" />
+      <Folder Include="Features\Notes\Commands\Delete\" />
+      <Folder Include="Features\Notes\Commands\Update\" />
+      <Folder Include="Features\Notes\Queries\GetAll\" />
+      <Folder Include="Features\Notes\Queries\GetById\" />
+      <Folder Include="Features\PrayerTimes\Commands\Delete\" />
+      <Folder Include="Features\PrayerTimes\Commands\Update\" />
+      <Folder Include="Features\PrayerTimes\Queries\GetAll\" />
+      <Folder Include="Features\PrayerTimes\Queries\GetById\" />
+      <Folder Include="Features\Surahs\Commands\Delete\" />
+      <Folder Include="Features\Surahs\Commands\Update\" />
+      <Folder Include="Features\Surahs\Queries\GetAll\" />
+      <Folder Include="Features\Surahs\Queries\GetById\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Update="Resources\Validations\Translations\ValidationTranslations.en-US.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>ValidationTranslations.en-US.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Resources\Validations\Translations\ValidationTranslations.tr-TR.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>ValidationTranslations.tr-TR.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Resources\Validations\Translations\ValidationTranslations.en-US.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>ValidationTranslations.en-US.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Resources\Validations\Translations\ValidationTranslations.tr-TR.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>ValidationTranslations.tr-TR.resx</DependentUpon>
+      </Compile>
     </ItemGroup>
 
 </Project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="NurBilgi.Mobile.app/Contents/MacOS/NurBilgi.Mobile">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>NurBilgi.Mobile.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>NurBilgi.Mobile.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>NurBilgi.Mobile.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
