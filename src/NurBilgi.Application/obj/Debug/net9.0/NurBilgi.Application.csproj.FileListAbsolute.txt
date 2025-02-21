@@ -1,0 +1,15 @@
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.deps.json
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.pdb
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Domain.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Domain.pdb
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.csproj.AssemblyReference.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.AssemblyInfoInputs.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.AssemblyInfo.cs
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.csproj.CoreCompileInputs.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.47135EB2.Up2Date
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/refint/NurBilgi.Application.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.pdb
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/ref/NurBilgi.Application.dll

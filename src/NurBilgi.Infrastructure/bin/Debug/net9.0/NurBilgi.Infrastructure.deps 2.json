@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NurBilgi.Infrastructure/1.0.0": {
+        "dependencies": {
+          "NurBilgi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NurBilgi.Infrastructure.dll": {}
+        }
+      },
+      "NurBilgi.Domain/1.0.0": {
+        "runtime": {
+          "NurBilgi.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NurBilgi.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NurBilgi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

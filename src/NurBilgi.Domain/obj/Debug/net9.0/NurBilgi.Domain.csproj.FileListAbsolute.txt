@@ -1,0 +1,12 @@
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/bin/Debug/net9.0/NurBilgi.Domain.deps.json
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/bin/Debug/net9.0/NurBilgi.Domain.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/bin/Debug/net9.0/NurBilgi.Domain.pdb
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/NurBilgi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/NurBilgi.Domain.AssemblyInfoInputs.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/NurBilgi.Domain.AssemblyInfo.cs
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/NurBilgi.Domain.csproj.CoreCompileInputs.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/NurBilgi.Domain.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/refint/NurBilgi.Domain.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/NurBilgi.Domain.pdb
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/ref/NurBilgi.Domain.dll
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Domain/obj/Debug/net9.0/NurBilgi.Domain.csproj.AssemblyReference.cache

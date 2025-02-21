@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/obj/Debug/net9.0-android/scopedcss/bundle/NurBilgi.Mobile.styles.css",
+      "PackagePath": "staticwebassets/NurBilgi.Mobile.styles.css"
+    },
+    {
+      "Id": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Mobile/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.NurBilgi.Mobile.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.NurBilgi.Mobile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.build.NurBilgi.Mobile.props",
+      "PackagePath": "build\\NurBilgi.Mobile.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.buildMultiTargeting.NurBilgi.Mobile.props",
+      "PackagePath": "buildMultiTargeting\\NurBilgi.Mobile.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.buildTransitive.NurBilgi.Mobile.props",
+      "PackagePath": "buildTransitive\\NurBilgi.Mobile.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
