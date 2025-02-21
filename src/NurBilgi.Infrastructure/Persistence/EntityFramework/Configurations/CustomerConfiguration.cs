@@ -48,10 +48,10 @@ public class CustomerConfiguration : IEntityTypeConfiguration<Customer>
         });
         
         // Create unique indexes
-        builder.HasIndex(x => x.Email)
-            .IsUnique();
-        builder.HasIndex(x => x.UserName)
-            .IsUnique();
+        //builder.HasIndex(x => x.Email.Value)
+          //  .IsUnique();
+       // builder.HasIndex(x => x.UserName.Value)
+       //     .IsUnique();
         
         builder.ToTable("users");
     }

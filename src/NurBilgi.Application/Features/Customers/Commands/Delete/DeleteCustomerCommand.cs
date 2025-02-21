@@ -1,32 +1,14 @@
 using MediatR;
-using Microsoft.EntityFrameworkCore;
-using NurBilgi.Application.Common.Interfaces;
-using NurBilgi.Domain.Entities;
+using NurBilgi.Application.Common.Models.Responses;
 
 namespace NurBilgi.Application.Features.Customers.Commands.Delete;
 
-public record DeleteCustomerCommand(long Id) : IRequest;
-
-public class DeleteCustomerCommandHandler : IRequestHandler<DeleteCustomerCommand>
+public sealed record DeleteCustomerCommand : IRequest<ResponseDto<long>>
 {
-    private readonly IApplicationDbContext _context;
+    public long Id { get; set; }
 
-    public DeleteCustomerCommandHandler(IApplicationDbContext context)
+    public DeleteCustomerCommand(long id)
     {
-        _context = context;
+        Id = id;
     }
-
-    public async Task Handle(DeleteCustomerCommand request, CancellationToken cancellationToken)
-    {
-        var entity = await _context.Customers
-            .FirstOrDefaultAsync(x => x.Id == request.Id, cancellationToken);
-
-        if (entity == null)
-        {
-            throw new KeyNotFoundException($"Customer with ID {request.Id} not found.");
-        }
-
-        _context.Customers.Remove(entity);
-        await _context.SaveChangesAsync(cancellationToken);
-    }
-} 
+}

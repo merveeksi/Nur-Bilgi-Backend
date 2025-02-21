@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NurBilgi.Mobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+deaf095dc1e41fe53cbeea3f44d4ad6a9898db95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b609f70dbe0f0dcd6f7fc9349beee068ee03284b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NurBilgi.Mobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NurBilgi.Mobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

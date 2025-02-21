@@ -16,6 +16,11 @@ public sealed class AiChatMessage : EntityBase<long>
     // Navigation properties
     public Customer Customer { get; set; }
 
+    public AiChatMessage()
+    {
+        
+    }
+
     public static AiChatMessage Create(string messageText, bool isCustomerMessage, DateTimeOffset timestamp, long customerId)
     {
         var aiChatMessage = new AiChatMessage
@@ -30,6 +35,19 @@ public sealed class AiChatMessage : EntityBase<long>
         aiChatMessage.RaiseDomainEvent(new AiChatMessageCreatedDomainEvent(aiChatMessage.Id));
 
         return aiChatMessage;
+    }
+
+    public void Update(string messageText, bool isCustomerMessage, DateTimeOffset timestamp, long customerId)
+    {
+        MessageText = messageText;
+        IsCustomerMessage = isCustomerMessage;
+        Timestamp = timestamp;
+        CustomerId = customerId;
+    }
+
+    public void Delete()
+    {
+        IsDeleted = true;
     }
     
 } 

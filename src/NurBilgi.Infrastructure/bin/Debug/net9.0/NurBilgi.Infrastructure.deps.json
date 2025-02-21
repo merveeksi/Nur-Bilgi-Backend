@@ -563,6 +563,7 @@
           "Microsoft.Extensions.Logging": "9.0.2"
         }
       },
+      "Microsoft.Extensions.Localization.Abstractions/9.0.2": {},
       "Microsoft.Extensions.Logging/9.0.2": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "9.0.2",
@@ -708,6 +709,7 @@
           "FluentValidation.DependencyInjectionExtensions": "11.11.0",
           "MediatR": "12.4.1",
           "Microsoft.EntityFrameworkCore": "9.0.2",
+          "Microsoft.Extensions.Localization.Abstractions": "9.0.2",
           "NurBilgi.Domain": "1.0.0"
         },
         "runtime": {
@@ -715,11 +717,20 @@
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
+        },
+        "resources": {
+          "tr-TR/NurBilgi.Application.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "en-US/NurBilgi.Application.resources.dll": {
+            "locale": "en-US"
+          }
         }
       },
       "NurBilgi.Domain/1.0.0": {
         "dependencies": {
           "MediatR.Contracts": "2.0.1",
+          "Microsoft.EntityFrameworkCore.Abstractions": "9.0.2",
           "Microsoft.Extensions.Identity.Stores": "9.0.2",
           "TSID.Creator.NET": "1.0.0"
         },
@@ -1017,6 +1028,13 @@
       "sha512": "sha512-1gY/SvkkvMv/Ea/UUMpTmkMI8ZP+I3dLBiPMSaaSaDK7WclHifheUmmsJqnXrhsswAI0xLLbGwff4xcsXedt4A==",
       "path": "microsoft.extensions.identity.stores/9.0.2",
       "hashPath": "microsoft.extensions.identity.stores.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Localization.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pYZqDaAAImukB5oBd0jBT91qCm32QRMo27NE17Euq0ZHXf9JY+X6q7IbnkPDaoUOuld5jW9LROarkJ25KH8jfQ==",
+      "path": "microsoft.extensions.localization.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.localization.abstractions.9.0.2.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/9.0.2": {
       "type": "package",

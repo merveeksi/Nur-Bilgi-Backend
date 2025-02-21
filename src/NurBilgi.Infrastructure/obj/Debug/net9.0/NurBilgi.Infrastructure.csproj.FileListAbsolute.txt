@@ -17,6 +17,25 @@
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Application.dll
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Application.pdb
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.genruntimeconfig.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Infrastructure.deps.json
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Infrastructure.runtimeconfig.json
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Infrastructure.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Infrastructure.pdb
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Application.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Domain.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Application.pdb
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/NurBilgi.Domain.pdb
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/tr-TR/NurBilgi.Application.resources.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/bin/Debug/net9.0/en-US/NurBilgi.Application.resources.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.csproj.AssemblyReference.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.AssemblyInfoInputs.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.AssemblyInfo.cs
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.sourcelink.json
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.DC6C3F24.Up2Date
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.dll
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/refint/NurBilgi.Infrastructure.dll
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.pdb
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/NurBilgi.Infrastructure.genruntimeconfig.cache
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/Debug/net9.0/ref/NurBilgi.Infrastructure.dll

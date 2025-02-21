@@ -9,9 +9,13 @@ public abstract class EntityBase<TKey> : IEntity<TKey>, ICreatedByEntity, IModif
     public virtual TKey Id { get; set; }
     public virtual string CreatedByUserId { get; set; }
     public virtual DateTimeOffset CreatedOn { get; set; }
-
     public virtual string? ModifiedByUserId { get; set; }
     public virtual DateTimeOffset? ModifiedOn { get; set; }
+    
+    public virtual string? DeletedByUserId { get; set; }
+    public virtual DateTimeOffset? DeletedOn { get; set; }
+    public virtual bool IsDeleted { get; set; }
+    
 
     private readonly List<IDomainEvent> _domainEvents = [];
 

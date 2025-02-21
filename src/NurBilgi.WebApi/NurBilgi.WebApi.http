@@ -1,0 +1,6 @@
+@NurBilgi.WebApi_HostAddress = http://localhost:5204
+
+GET {{NurBilgi.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

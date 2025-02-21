@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NurBilgi.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deaf095dc1e41fe53cbeea3f44d4ad6a9898db95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b609f70dbe0f0dcd6f7fc9349beee068ee03284b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NurBilgi.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NurBilgi.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

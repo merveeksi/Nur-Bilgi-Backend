@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebApi/NurBilgi.WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/NurBilgi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/NurBilgi.Application.csproj",
+        "projectName": "NurBilgi.Application",
+        "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/NurBilgi.Application.csproj",
+        "packagesPath": "/Users/merveeksi/.nuget/packages/",
+        "outputPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/merveeksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/NurBilgi.Domain.csproj": {
+                "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/NurBilgi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/NurBilgi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/NurBilgi.Domain.csproj",
+        "projectName": "NurBilgi.Domain",
+        "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/NurBilgi.Domain.csproj",
+        "packagesPath": "/Users/merveeksi/.nuget/packages/",
+        "outputPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/merveeksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "TSID.Creator.NET": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/NurBilgi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/NurBilgi.Infrastructure.csproj",
+        "projectName": "NurBilgi.Infrastructure",
+        "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/NurBilgi.Infrastructure.csproj",
+        "packagesPath": "/Users/merveeksi/.nuget/packages/",
+        "outputPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/merveeksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/NurBilgi.Application.csproj": {
+                "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/NurBilgi.Application.csproj"
+              },
+              "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/NurBilgi.Domain.csproj": {
+                "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/NurBilgi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "EFCore.NamingConventions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebApi/NurBilgi.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebApi/NurBilgi.WebApi.csproj",
+        "projectName": "NurBilgi.WebApi",
+        "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebApi/NurBilgi.WebApi.csproj",
+        "packagesPath": "/Users/merveeksi/.nuget/packages/",
+        "outputPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/merveeksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/NurBilgi.Infrastructure.csproj": {
+                "projectPath": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Infrastructure/NurBilgi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

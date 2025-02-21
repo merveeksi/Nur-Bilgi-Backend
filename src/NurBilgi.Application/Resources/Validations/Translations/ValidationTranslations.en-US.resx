@@ -26,6 +26,52 @@
     <data name="AiChatMessageDeleteIdNotFound">
         <value>Ai chat message not found</value>
     </data>
-    
-    
+
+    <!-- Daily Dua Delete Validation Messages -->
+    <data name="DailyDuaDeleteIdRequired">
+        <value>Daily dua name is required</value>
+    </data>
+    <data name="DailyDuaDeleteIdNotFound">
+        <value>Daily dua name not found</value>
+    </data>
+
+    <!-- Favorite Delete Validation Messages -->
+    <data name="FavoriteDeleteIdRequired">
+        <value>Favorite is required</value>
+    </data>
+    <data name="FavoriteDeleteIdNotFound">
+        <value>Favorite not found</value>
+    </data>
+
+    <!-- Note Delete Validation Messages -->
+    <data name="NoteDeleteIdRequired">
+        <value>Note is required</value>
+    </data>
+    <data name="NoteDeleteIdNotFound">
+        <value>Note not found</value>
+    </data>
+
+    <!-- Prayer Time Delete Validation Messages -->
+    <data name="PrayerTimeDeleteIdRequired">
+        <value>Prayer time is required</value>
+    </data>
+    <data name="PrayerTimeDeleteIdNotFound">
+        <value>Prayer time not found</value>
+    </data>
+
+    <!-- Surah Delete Validation Messages -->
+    <data name="SurahDeleteIdRequired">
+        <value>Surah name is required</value>
+    </data>
+    <data name="SurahDeleteIdNotFound">
+        <value>Surah name not found</value>
+    </data>
+
+    <!-- Customer Delete Validation Messages -->
+    <data name="CustomerIdIsRequired">
+        <value>Customer name is required</value>
+    </data>
+    <data name="CustomerNotFound">
+        <value>Customer name not found</value>
+    </data>
 </root>

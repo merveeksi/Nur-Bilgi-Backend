@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "93undqXbswk31Y6BGEdZpddFJvHBXxUXVFQmsVXi8aQ=",
+  "Source": "NurBilgi.WebApi",
+  "BasePath": "_content/NurBilgi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
