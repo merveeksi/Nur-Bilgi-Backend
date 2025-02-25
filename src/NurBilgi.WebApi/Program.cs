@@ -15,6 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 
+builder.Services.AddDistributedMemoryCache();
 
 builder.Services.AddScoped<ICurrentUserService, CurrentUserManager>();
 
