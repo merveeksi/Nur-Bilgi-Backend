@@ -1,6 +1,7 @@
 using NurBilgi.Application;
 using NurBilgi.Application.Common.Interfaces;
 using NurBilgi.Infrastructure;
+using NurBilgi.WebApi.Extensions;
 using NurBilgi.WebApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -38,6 +39,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-//app.ApplyMigrations();
+app.ApplyMigrations();
 
 app.Run();
