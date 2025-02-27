@@ -1,0 +1,28 @@
+/* Add a modern font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Improve color scheme */
+.bg-gradient-to-b {
+    background: linear-gradient(to bottom, #e0f7fa, #80deea);
+}
+
+/* Add subtle animations */
+.hover\:bg-black:hover {
+    transition: background-color 0.3s ease;
+}
+.hover\:opacity-80:hover {
+    transition: opacity 0.3s ease;
+}
+
+/* Responsive design improvements */
+@media (max-width: 768px) {
+    .text-4xl {
+        font-size: 2.5rem;
+    }
+    .text-2xl {
+        font-size: 1.5rem;
+    }
+} 

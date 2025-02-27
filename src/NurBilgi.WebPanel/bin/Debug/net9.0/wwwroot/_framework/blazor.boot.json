@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NurBilgi.WebPanel",
   "resources": {
-    "hash": "sha256-qC8bDWiaeHiGBOdIDQ71U7cmg5plQ9kUdmR4mIvdB/g=",
+    "hash": "sha256-+jBpq+YoepuI1IcaHTghsxTa6YZEBDuPdZ3pVdU9duM=",
     "fingerprinting": {
       "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
       "FluentValidation.DependencyInjectionExtensions.zp0j7t4orj.wasm": "FluentValidation.DependencyInjectionExtensions.wasm",
@@ -217,14 +217,14 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "NurBilgi.Application.vhd02fc64q.wasm": "NurBilgi.Application.wasm",
-      "NurBilgi.Domain.1c07427vn8.wasm": "NurBilgi.Domain.wasm",
-      "NurBilgi.Application.vnldqpleni.pdb": "NurBilgi.Application.pdb",
-      "NurBilgi.Domain.5r7xnn88k6.pdb": "NurBilgi.Domain.pdb",
-      "NurBilgi.Application.resources.dzpmqcjusr.wasm": "NurBilgi.Application.resources.wasm",
-      "NurBilgi.Application.resources.j00cea1asi.wasm": "NurBilgi.Application.resources.wasm",
-      "NurBilgi.WebPanel.mn2pzk8jjq.wasm": "NurBilgi.WebPanel.wasm",
-      "NurBilgi.WebPanel.95m4lsu223.pdb": "NurBilgi.WebPanel.pdb"
+      "NurBilgi.Application.0yfh3pjcjw.wasm": "NurBilgi.Application.wasm",
+      "NurBilgi.Domain.b8l3hhk1dg.wasm": "NurBilgi.Domain.wasm",
+      "NurBilgi.Application.dtazd7r2r2.pdb": "NurBilgi.Application.pdb",
+      "NurBilgi.Domain.rnxz10mfea.pdb": "NurBilgi.Domain.pdb",
+      "NurBilgi.Application.resources.nbgltgarz8.wasm": "NurBilgi.Application.resources.wasm",
+      "NurBilgi.Application.resources.lajcnomgf1.wasm": "NurBilgi.Application.resources.wasm",
+      "NurBilgi.WebPanel.6auedjstfs.wasm": "NurBilgi.WebPanel.wasm",
+      "NurBilgi.WebPanel.l1m048ti2j.pdb": "NurBilgi.WebPanel.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
@@ -450,21 +450,21 @@
       "WindowsBase.tuf34ieu7y.wasm": "sha256-Bd+l972cOS1eVeLzrQNlgD6LPWV1QXBSzJhv8Tx1WGI=",
       "mscorlib.5q5u0swn6q.wasm": "sha256-g9cI1sECkF7bxMqOSB+W0a4utdDsqTrqZzyiAEeA65g=",
       "netstandard.w8gk1pigg1.wasm": "sha256-QFR5QNPfvyZTexW3IA/AFx6ZmIF/TecvOUsSK4gM4po=",
-      "NurBilgi.Application.vhd02fc64q.wasm": "sha256-U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI=",
-      "NurBilgi.Domain.1c07427vn8.wasm": "sha256-cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y=",
-      "NurBilgi.WebPanel.mn2pzk8jjq.wasm": "sha256-suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc="
+      "NurBilgi.Application.0yfh3pjcjw.wasm": "sha256-+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk=",
+      "NurBilgi.Domain.b8l3hhk1dg.wasm": "sha256-O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE=",
+      "NurBilgi.WebPanel.6auedjstfs.wasm": "sha256-MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA="
     },
     "pdb": {
-      "NurBilgi.Application.vnldqpleni.pdb": "sha256-FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM=",
-      "NurBilgi.Domain.5r7xnn88k6.pdb": "sha256-f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4=",
-      "NurBilgi.WebPanel.95m4lsu223.pdb": "sha256-Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU="
+      "NurBilgi.Application.dtazd7r2r2.pdb": "sha256-fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA=",
+      "NurBilgi.Domain.rnxz10mfea.pdb": "sha256-J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8=",
+      "NurBilgi.WebPanel.l1m048ti2j.pdb": "sha256-Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw="
     },
     "satelliteResources": {
       "tr-TR": {
-        "NurBilgi.Application.resources.dzpmqcjusr.wasm": "sha256-CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0="
+        "NurBilgi.Application.resources.nbgltgarz8.wasm": "sha256-Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y="
       },
       "en-US": {
-        "NurBilgi.Application.resources.j00cea1asi.wasm": "sha256-7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE="
+        "NurBilgi.Application.resources.lajcnomgf1.wasm": "sha256-U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go="
       }
     }
   },

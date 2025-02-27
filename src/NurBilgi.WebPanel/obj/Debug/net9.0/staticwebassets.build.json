@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cfY2fokpsEf7PojtE3x8tss3DpgCfMV1fiCf6e2xSko=",
+  "Hash": "5JpgBqhmEIa/ZwkZzr9A5M367OJxUWgyfPYqIgkEYEo=",
   "Source": "NurBilgi.WebPanel",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "14cthdhse6",
-      "Integrity": "bwjIZq/QVBXYVkC5vEKVbnwqrr4OCiE74JsZu2ZBsQc=",
+      "Fingerprint": "5o612z8q4e",
+      "Integrity": "+3kwxtkPlJ2PRT+Y+05OCjEhXFFxf1NUXOnV4vgNOhA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -220,8 +220,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.wasm",
       "AssetTraitName": "Culture",
       "AssetTraitValue": "en-US",
-      "Fingerprint": "j00cea1asi",
-      "Integrity": "7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE=",
+      "Fingerprint": "lajcnomgf1",
+      "Integrity": "U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/webcil/en-US/NurBilgi.Application.resources.wasm"
@@ -1228,8 +1228,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "vnldqpleni",
-      "Integrity": "FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM=",
+      "Fingerprint": "dtazd7r2r2",
+      "Integrity": "fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.pdb"
@@ -1249,8 +1249,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "vhd02fc64q",
-      "Integrity": "U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI=",
+      "Fingerprint": "0yfh3pjcjw",
+      "Integrity": "+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/webcil/NurBilgi.Application.wasm"
@@ -1270,8 +1270,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "5r7xnn88k6",
-      "Integrity": "f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4=",
+      "Fingerprint": "rnxz10mfea",
+      "Integrity": "J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Domain/bin/Debug/net9.0/NurBilgi.Domain.pdb"
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "1c07427vn8",
-      "Integrity": "cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y=",
+      "Fingerprint": "b8l3hhk1dg",
+      "Integrity": "O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/webcil/NurBilgi.Domain.wasm"
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "95m4lsu223",
-      "Integrity": "Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU=",
+      "Fingerprint": "l1m048ti2j",
+      "Integrity": "Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/NurBilgi.WebPanel.pdb"
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "mn2pzk8jjq",
-      "Integrity": "suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc=",
+      "Fingerprint": "6auedjstfs",
+      "Integrity": "MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/webcil/NurBilgi.WebPanel.wasm"
@@ -4735,8 +4735,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.wasm",
       "AssetTraitName": "Culture",
       "AssetTraitValue": "tr-TR",
-      "Fingerprint": "dzpmqcjusr",
-      "Integrity": "CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0=",
+      "Fingerprint": "nbgltgarz8",
+      "Integrity": "Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/webcil/tr-TR/NurBilgi.Application.resources.wasm"
@@ -5036,6 +5036,27 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/System.Data.wasm"
     },
     {
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/1kforliimn-fwox89okx9.gz",
+      "SourceId": "NurBilgi.WebPanel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
+      "BasePath": "/",
+      "RelativePath": "css/custom-styles#[.{fingerprint=fwox89okx9}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/custom-styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6cn7a5s377",
+      "Integrity": "5m+ebo9Sbq4l3fKUNUnZuqSwCcH8p9yxZaa9MEy+ROU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/custom-styles.css"
+    },
+    {
       "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/1nmnkpg4an-uhutqc14lw.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
@@ -5246,12 +5267,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/dotnet.js.map"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-j00cea1asi.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-lajcnomgf1.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/en-US/NurBilgi.Application.resources#[.{fingerprint=j00cea1asi}]!.wasm.gz",
+      "RelativePath": "_framework/en-US/NurBilgi.Application.resources#[.{fingerprint=lajcnomgf1}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5260,8 +5281,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/en-US/NurBilgi.Application.resources.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "on0uaar68l",
-      "Integrity": "1ECYeKM6mpMET6+83s72XsijMHwY8Ds3ZOQ1UnHHToU=",
+      "Fingerprint": "dnwi6iyp4g",
+      "Integrity": "ySOvlnAh+zFOVg6HCTQ3EQk+sXXxeXwAOz1+iJYKs4A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/en-US/NurBilgi.Application.resources.wasm"
@@ -5309,12 +5330,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/System.Numerics.Vectors.wasm"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-vhd02fc64q.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-0yfh3pjcjw.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NurBilgi.Application#[.{fingerprint=vhd02fc64q}]!.wasm.gz",
+      "RelativePath": "_framework/NurBilgi.Application#[.{fingerprint=0yfh3pjcjw}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5323,8 +5344,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1a95mzb4hq",
-      "Integrity": "ObCzPX2vldkOTXZUbtQeMcJU8DpLcOkj26AE9fA7jKQ=",
+      "Fingerprint": "hs3hun0enw",
+      "Integrity": "j7hPlUynbAvzjtxyVnyszeg4hFLKlsfgQjtqVYSVz5c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.wasm"
@@ -5435,12 +5456,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/System.ObjectModel.wasm"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-oep2khd84g.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-x81nnouvgm.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=oep2khd84g}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=x81nnouvgm}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5449,8 +5470,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r9ot0pr0wg",
-      "Integrity": "H9RlKVVy+htIuMmnE1G7WMCP51KNk7d5XaQNTxdTG5w=",
+      "Fingerprint": "svtdizrtzj",
+      "Integrity": "iIZ+K8yr5yQ5+6f2SCr/B4WHnJkoGAoDeQ0ARt8xHpM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/app.css"
@@ -6170,12 +6191,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.TraceSource.wasm"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-5r7xnn88k6.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-rnxz10mfea.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NurBilgi.Domain#[.{fingerprint=5r7xnn88k6}]!.pdb.gz",
+      "RelativePath": "_framework/NurBilgi.Domain#[.{fingerprint=rnxz10mfea}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6184,8 +6205,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eugi52xdq3",
-      "Integrity": "xuLSh6poao1NMqvxoyyy7YONMreGhAMebwJPdigm/GY=",
+      "Fingerprint": "ml7ylzowcv",
+      "Integrity": "BoTPFJgHmyyKESiJoElAJc+a1Y0eDGUyxkHxi9xNEms=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.pdb"
@@ -6716,12 +6737,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.wasm"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-vnldqpleni.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-dtazd7r2r2.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NurBilgi.Application#[.{fingerprint=vnldqpleni}]!.pdb.gz",
+      "RelativePath": "_framework/NurBilgi.Application#[.{fingerprint=dtazd7r2r2}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6730,19 +6751,19 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6nydartufm",
-      "Integrity": "otbgKjWIJyEnYbhU+JP9kCTvy/AJ3oT7KDje6i0sacM=",
+      "Fingerprint": "u61qxgp24o",
+      "Integrity": "embMNfOWUw+spwaO5Ijbu151Yp3n4AI1nqWDTjY4FW4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.pdb"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-1c07427vn8.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-b8l3hhk1dg.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NurBilgi.Domain#[.{fingerprint=1c07427vn8}]!.wasm.gz",
+      "RelativePath": "_framework/NurBilgi.Domain#[.{fingerprint=b8l3hhk1dg}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6751,8 +6772,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eltgqbvo5n",
-      "Integrity": "0k9FQte0MMtIbQc7uwsnU4DnrdURC+HWE/vse4nHSp0=",
+      "Fingerprint": "hjwkf7pyo7",
+      "Integrity": "QyM1LsF0jzHXat2MR7eIp9fiXlPZ9Ud9COq4iYQXzbQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.wasm"
@@ -6800,12 +6821,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.wasm"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-mn2pzk8jjq.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-6auedjstfs.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NurBilgi.WebPanel#[.{fingerprint=mn2pzk8jjq}]!.wasm.gz",
+      "RelativePath": "_framework/NurBilgi.WebPanel#[.{fingerprint=6auedjstfs}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6814,8 +6835,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.WebPanel.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "p9j0vcashz",
-      "Integrity": "c8/yws6TdvWD2ElNJ8TNlu3f3R/qxqILp/+ZmqAc4Y0=",
+      "Fingerprint": "e30rus3blc",
+      "Integrity": "xgiTindYngzKCdlQPbUyvRqiNqLMRnDeKDpCpShYbTk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.WebPanel.wasm"
@@ -8858,12 +8879,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/System.Drawing.Primitives.wasm"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-dzpmqcjusr.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-nbgltgarz8.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/tr-TR/NurBilgi.Application.resources#[.{fingerprint=dzpmqcjusr}]!.wasm.gz",
+      "RelativePath": "_framework/tr-TR/NurBilgi.Application.resources#[.{fingerprint=nbgltgarz8}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8872,8 +8893,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/tr-TR/NurBilgi.Application.resources.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6ovw758yj2",
-      "Integrity": "VgPoVLgrS0pc1tk5BeOsdK9WnGVUE+0f9iaFbQniNSE=",
+      "Fingerprint": "3rkm27fxz9",
+      "Integrity": "cf+iDQS5cJGVIlwynI7qORUvmYXbduTa5egQrw3dwXQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/tr-TR/NurBilgi.Application.resources.wasm"
@@ -9047,12 +9068,12 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/index.html"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-95m4lsu223.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-l1m048ti2j.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NurBilgi.WebPanel#[.{fingerprint=95m4lsu223}]!.pdb.gz",
+      "RelativePath": "_framework/NurBilgi.WebPanel#[.{fingerprint=l1m048ti2j}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9061,8 +9082,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.WebPanel.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vldg3z5ouv",
-      "Integrity": "40fIdkHXffhtWgCHuaWNOG/xcGgtI+TW4Fbomphf7I4=",
+      "Fingerprint": "n6089ijg1i",
+      "Integrity": "EezYSlLBSEegjusq9QnBHG+Wv0Mhz5g43eSth8Ly6Lg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.WebPanel.pdb"
@@ -9404,7 +9425,7 @@
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/System.Reflection.Extensions.wasm"
     },
     {
-      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/xe7nrl163m-14cthdhse6.gz",
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/xe7nrl163m-5o612z8q4e.gz",
       "SourceId": "NurBilgi.WebPanel",
       "SourceType": "Computed",
       "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/",
@@ -9418,8 +9439,8 @@
       "RelatedAsset": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fv57sqvzqy",
-      "Integrity": "ew0v/wKi0z4ZYUwuaeAEYbJm8O12H1MrjWCU2L25L58=",
+      "Fingerprint": "yu6rr729px",
+      "Integrity": "ejLdy6fcYB17eoQwKpRWnL33kI5ZDzsZ5xg4xH5YJJ0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -9796,11 +9817,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "oep2khd84g",
-      "Integrity": "IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI=",
+      "Fingerprint": "x81nnouvgm",
+      "Integrity": "Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/app.css"
+    },
+    {
+      "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/custom-styles.css",
+      "SourceId": "NurBilgi.WebPanel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "css/custom-styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fwox89okx9",
+      "Integrity": "T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/custom-styles.css"
     },
     {
       "Identity": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/favicon.png",
@@ -10044,11 +10086,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bwjIZq/QVBXYVkC5vEKVbnwqrr4OCiE74JsZu2ZBsQc=\""
+          "Value": "\"+3kwxtkPlJ2PRT+Y+05OCjEhXFFxf1NUXOnV4vgNOhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10058,18 +10100,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bwjIZq/QVBXYVkC5vEKVbnwqrr4OCiE74JsZu2ZBsQc="
+          "Value": "sha256-+3kwxtkPlJ2PRT+Y+05OCjEhXFFxf1NUXOnV4vgNOhA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/xe7nrl163m-14cthdhse6.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/xe7nrl163m-5o612z8q4e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000072870364"
+          "Quality": "0.000072880985"
         }
       ],
       "ResponseHeaders": [
@@ -10079,15 +10121,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13722"
+          "Value": "13720"
         },
         {
           "Name": "ETag",
-          "Value": "\"ew0v/wKi0z4ZYUwuaeAEYbJm8O12H1MrjWCU2L25L58=\""
+          "Value": "\"ejLdy6fcYB17eoQwKpRWnL33kI5ZDzsZ5xg4xH5YJJ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:12:18 GMT"
+          "Value": "Wed, 26 Feb 2025 22:49:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10107,19 +10149,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bwjIZq/QVBXYVkC5vEKVbnwqrr4OCiE74JsZu2ZBsQc=\""
+          "Value": "W/\"+3kwxtkPlJ2PRT+Y+05OCjEhXFFxf1NUXOnV4vgNOhA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bwjIZq/QVBXYVkC5vEKVbnwqrr4OCiE74JsZu2ZBsQc="
+          "Value": "sha256-+3kwxtkPlJ2PRT+Y+05OCjEhXFFxf1NUXOnV4vgNOhA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/xe7nrl163m-14cthdhse6.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/xe7nrl163m-5o612z8q4e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10128,7 +10170,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13722"
+          "Value": "13720"
         },
         {
           "Name": "Content-Type",
@@ -10136,11 +10178,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ew0v/wKi0z4ZYUwuaeAEYbJm8O12H1MrjWCU2L25L58=\""
+          "Value": "\"ejLdy6fcYB17eoQwKpRWnL33kI5ZDzsZ5xg4xH5YJJ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:12:18 GMT"
+          "Value": "Wed, 26 Feb 2025 22:49:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10158,7 +10200,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ew0v/wKi0z4ZYUwuaeAEYbJm8O12H1MrjWCU2L25L58="
+          "Value": "sha256-ejLdy6fcYB17eoQwKpRWnL33kI5ZDzsZ5xg4xH5YJJ0="
         }
       ]
     },
@@ -12088,7 +12130,7 @@
       ]
     },
     {
-      "Route": "_framework/en-US/NurBilgi.Application.resources.j00cea1asi.wasm",
+      "Route": "_framework/en-US/NurBilgi.Application.resources.lajcnomgf1.wasm",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/en-US/NurBilgi.Application.resources.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12106,11 +12148,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE=\""
+          "Value": "\"U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12120,7 +12162,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "j00cea1asi"
+          "Value": "lajcnomgf1"
         },
         {
           "Name": "label",
@@ -12128,18 +12170,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE="
+          "Value": "sha256-U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go="
         }
       ]
     },
     {
-      "Route": "_framework/en-US/NurBilgi.Application.resources.j00cea1asi.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-j00cea1asi.gz",
+      "Route": "_framework/en-US/NurBilgi.Application.resources.lajcnomgf1.wasm",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-lajcnomgf1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000555864369"
+          "Quality": "0.000556483027"
         }
       ],
       "ResponseHeaders": [
@@ -12149,15 +12191,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1798"
+          "Value": "1796"
         },
         {
           "Name": "ETag",
-          "Value": "\"1ECYeKM6mpMET6+83s72XsijMHwY8Ds3ZOQ1UnHHToU=\""
+          "Value": "\"ySOvlnAh+zFOVg6HCTQ3EQk+sXXxeXwAOz1+iJYKs4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12177,13 +12219,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE=\""
+          "Value": "W/\"U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "j00cea1asi"
+          "Value": "lajcnomgf1"
         },
         {
           "Name": "label",
@@ -12191,13 +12233,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE="
+          "Value": "sha256-U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go="
         }
       ]
     },
     {
-      "Route": "_framework/en-US/NurBilgi.Application.resources.j00cea1asi.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-j00cea1asi.gz",
+      "Route": "_framework/en-US/NurBilgi.Application.resources.lajcnomgf1.wasm.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-lajcnomgf1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12206,7 +12248,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1798"
+          "Value": "1796"
         },
         {
           "Name": "Content-Type",
@@ -12214,11 +12256,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1ECYeKM6mpMET6+83s72XsijMHwY8Ds3ZOQ1UnHHToU=\""
+          "Value": "\"ySOvlnAh+zFOVg6HCTQ3EQk+sXXxeXwAOz1+iJYKs4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12236,7 +12278,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "j00cea1asi"
+          "Value": "lajcnomgf1"
         },
         {
           "Name": "label",
@@ -12244,7 +12286,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1ECYeKM6mpMET6+83s72XsijMHwY8Ds3ZOQ1UnHHToU="
+          "Value": "sha256-ySOvlnAh+zFOVg6HCTQ3EQk+sXXxeXwAOz1+iJYKs4A="
         }
       ]
     },
@@ -12267,11 +12309,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE=\""
+          "Value": "\"U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12281,18 +12323,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE="
+          "Value": "sha256-U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go="
         }
       ]
     },
     {
       "Route": "_framework/en-US/NurBilgi.Application.resources.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-j00cea1asi.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-lajcnomgf1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000555864369"
+          "Quality": "0.000556483027"
         }
       ],
       "ResponseHeaders": [
@@ -12302,15 +12344,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1798"
+          "Value": "1796"
         },
         {
           "Name": "ETag",
-          "Value": "\"1ECYeKM6mpMET6+83s72XsijMHwY8Ds3ZOQ1UnHHToU=\""
+          "Value": "\"ySOvlnAh+zFOVg6HCTQ3EQk+sXXxeXwAOz1+iJYKs4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12330,19 +12372,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE=\""
+          "Value": "W/\"U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7a5ErVFq+6ThHjFYIhkeM4Glp0eTElrLU1JDDueXYiE="
+          "Value": "sha256-U9wnz9vG96u6dydLf6d9nrBzrwRSuNTiGV5pYZQR3go="
         }
       ]
     },
     {
       "Route": "_framework/en-US/NurBilgi.Application.resources.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-j00cea1asi.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/2i1gjpb9f5-lajcnomgf1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12351,7 +12393,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1798"
+          "Value": "1796"
         },
         {
           "Name": "Content-Type",
@@ -12359,11 +12401,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1ECYeKM6mpMET6+83s72XsijMHwY8Ds3ZOQ1UnHHToU=\""
+          "Value": "\"ySOvlnAh+zFOVg6HCTQ3EQk+sXXxeXwAOz1+iJYKs4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12381,7 +12423,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1ECYeKM6mpMET6+83s72XsijMHwY8Ds3ZOQ1UnHHToU="
+          "Value": "sha256-ySOvlnAh+zFOVg6HCTQ3EQk+sXXxeXwAOz1+iJYKs4A="
         }
       ]
     },
@@ -26392,144 +26434,7 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Application.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-vnldqpleni.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000046667911"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21427"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"otbgKjWIJyEnYbhU+JP9kCTvy/AJ3oT7KDje6i0sacM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Application.pdb.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-vnldqpleni.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21427"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"otbgKjWIJyEnYbhU+JP9kCTvy/AJ3oT7KDje6i0sacM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-otbgKjWIJyEnYbhU+JP9kCTvy/AJ3oT7KDje6i0sacM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Application.vhd02fc64q.wasm",
+      "Route": "_framework/NurBilgi.Application.0yfh3pjcjw.wasm",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -26547,11 +26452,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI=\""
+          "Value": "\"+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26561,7 +26466,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vhd02fc64q"
+          "Value": "0yfh3pjcjw"
         },
         {
           "Name": "label",
@@ -26569,18 +26474,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI="
+          "Value": "sha256-+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.vhd02fc64q.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-vhd02fc64q.gz",
+      "Route": "_framework/NurBilgi.Application.0yfh3pjcjw.wasm",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-0yfh3pjcjw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000021230972"
+          "Quality": "0.000021231423"
         }
       ],
       "ResponseHeaders": [
@@ -26590,15 +26495,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47100"
+          "Value": "47099"
         },
         {
           "Name": "ETag",
-          "Value": "\"ObCzPX2vldkOTXZUbtQeMcJU8DpLcOkj26AE9fA7jKQ=\""
+          "Value": "\"j7hPlUynbAvzjtxyVnyszeg4hFLKlsfgQjtqVYSVz5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26618,13 +26523,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI=\""
+          "Value": "W/\"+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vhd02fc64q"
+          "Value": "0yfh3pjcjw"
         },
         {
           "Name": "label",
@@ -26632,13 +26537,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI="
+          "Value": "sha256-+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.vhd02fc64q.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-vhd02fc64q.gz",
+      "Route": "_framework/NurBilgi.Application.0yfh3pjcjw.wasm.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-0yfh3pjcjw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26647,7 +26552,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47100"
+          "Value": "47099"
         },
         {
           "Name": "Content-Type",
@@ -26655,11 +26560,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ObCzPX2vldkOTXZUbtQeMcJU8DpLcOkj26AE9fA7jKQ=\""
+          "Value": "\"j7hPlUynbAvzjtxyVnyszeg4hFLKlsfgQjtqVYSVz5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26677,7 +26582,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vhd02fc64q"
+          "Value": "0yfh3pjcjw"
         },
         {
           "Name": "label",
@@ -26685,12 +26590,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ObCzPX2vldkOTXZUbtQeMcJU8DpLcOkj26AE9fA7jKQ="
+          "Value": "sha256-j7hPlUynbAvzjtxyVnyszeg4hFLKlsfgQjtqVYSVz5c="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.vnldqpleni.pdb",
+      "Route": "_framework/NurBilgi.Application.dtazd7r2r2.pdb",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -26708,11 +26613,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM=\""
+          "Value": "\"fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:41 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26722,7 +26627,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vnldqpleni"
+          "Value": "dtazd7r2r2"
         },
         {
           "Name": "label",
@@ -26730,18 +26635,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM="
+          "Value": "sha256-fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.vnldqpleni.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-vnldqpleni.gz",
+      "Route": "_framework/NurBilgi.Application.dtazd7r2r2.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-dtazd7r2r2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000046667911"
+          "Quality": "0.000046672267"
         }
       ],
       "ResponseHeaders": [
@@ -26751,15 +26656,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21427"
+          "Value": "21425"
         },
         {
           "Name": "ETag",
-          "Value": "\"otbgKjWIJyEnYbhU+JP9kCTvy/AJ3oT7KDje6i0sacM=\""
+          "Value": "\"embMNfOWUw+spwaO5Ijbu151Yp3n4AI1nqWDTjY4FW4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26779,13 +26684,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM=\""
+          "Value": "W/\"fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vnldqpleni"
+          "Value": "dtazd7r2r2"
         },
         {
           "Name": "label",
@@ -26793,13 +26698,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FSMvCIW/k9vzIkFUsewsmRigGYv33dM4SEooR/Kv5sM="
+          "Value": "sha256-fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.vnldqpleni.pdb.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-vnldqpleni.gz",
+      "Route": "_framework/NurBilgi.Application.dtazd7r2r2.pdb.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-dtazd7r2r2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26808,7 +26713,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21427"
+          "Value": "21425"
         },
         {
           "Name": "Content-Type",
@@ -26816,11 +26721,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"otbgKjWIJyEnYbhU+JP9kCTvy/AJ3oT7KDje6i0sacM=\""
+          "Value": "\"embMNfOWUw+spwaO5Ijbu151Yp3n4AI1nqWDTjY4FW4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26838,7 +26743,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vnldqpleni"
+          "Value": "dtazd7r2r2"
         },
         {
           "Name": "label",
@@ -26846,7 +26751,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-otbgKjWIJyEnYbhU+JP9kCTvy/AJ3oT7KDje6i0sacM="
+          "Value": "sha256-embMNfOWUw+spwaO5Ijbu151Yp3n4AI1nqWDTjY4FW4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Application.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Application.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:37:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Application.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-dtazd7r2r2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000046672267"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21425"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"embMNfOWUw+spwaO5Ijbu151Yp3n4AI1nqWDTjY4FW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fwWZTYv5yQLKmqj8Pna8MeGNadLzi1V5C3B9f3+6OWA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Application.pdb.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dbrczkb2h4-dtazd7r2r2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"embMNfOWUw+spwaO5Ijbu151Yp3n4AI1nqWDTjY4FW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-embMNfOWUw+spwaO5Ijbu151Yp3n4AI1nqWDTjY4FW4="
         }
       ]
     },
@@ -26869,11 +26911,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI=\""
+          "Value": "\"+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26883,18 +26925,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI="
+          "Value": "sha256-+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Application.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-vhd02fc64q.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-0yfh3pjcjw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000021230972"
+          "Quality": "0.000021231423"
         }
       ],
       "ResponseHeaders": [
@@ -26904,15 +26946,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47100"
+          "Value": "47099"
         },
         {
           "Name": "ETag",
-          "Value": "\"ObCzPX2vldkOTXZUbtQeMcJU8DpLcOkj26AE9fA7jKQ=\""
+          "Value": "\"j7hPlUynbAvzjtxyVnyszeg4hFLKlsfgQjtqVYSVz5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26932,19 +26974,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI=\""
+          "Value": "W/\"+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U2JpOpzXD+1jInT6XJ4zXeup/71XIs9TTW8bjeYibZI="
+          "Value": "sha256-+IGfbaDVF21KaNU2xPD8DzpadMpTg2xEG3w8V+iNGpk="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Application.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-vhd02fc64q.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/32wk4novcp-0yfh3pjcjw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26953,7 +26995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "47100"
+          "Value": "47099"
         },
         {
           "Name": "Content-Type",
@@ -26961,11 +27003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ObCzPX2vldkOTXZUbtQeMcJU8DpLcOkj26AE9fA7jKQ=\""
+          "Value": "\"j7hPlUynbAvzjtxyVnyszeg4hFLKlsfgQjtqVYSVz5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26983,12 +27025,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ObCzPX2vldkOTXZUbtQeMcJU8DpLcOkj26AE9fA7jKQ="
+          "Value": "sha256-j7hPlUynbAvzjtxyVnyszeg4hFLKlsfgQjtqVYSVz5c="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.1c07427vn8.wasm",
+      "Route": "_framework/NurBilgi.Domain.b8l3hhk1dg.wasm",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -27006,11 +27048,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y=\""
+          "Value": "\"O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27020,7 +27062,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1c07427vn8"
+          "Value": "b8l3hhk1dg"
         },
         {
           "Name": "label",
@@ -27028,18 +27070,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y="
+          "Value": "sha256-O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.1c07427vn8.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-1c07427vn8.gz",
+      "Route": "_framework/NurBilgi.Domain.b8l3hhk1dg.wasm",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-b8l3hhk1dg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080347099"
+          "Quality": "0.000080334190"
         }
       ],
       "ResponseHeaders": [
@@ -27049,15 +27091,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12445"
+          "Value": "12447"
         },
         {
           "Name": "ETag",
-          "Value": "\"0k9FQte0MMtIbQc7uwsnU4DnrdURC+HWE/vse4nHSp0=\""
+          "Value": "\"QyM1LsF0jzHXat2MR7eIp9fiXlPZ9Ud9COq4iYQXzbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27077,13 +27119,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y=\""
+          "Value": "W/\"O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1c07427vn8"
+          "Value": "b8l3hhk1dg"
         },
         {
           "Name": "label",
@@ -27091,13 +27133,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y="
+          "Value": "sha256-O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.1c07427vn8.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-1c07427vn8.gz",
+      "Route": "_framework/NurBilgi.Domain.b8l3hhk1dg.wasm.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-b8l3hhk1dg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27106,7 +27148,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12445"
+          "Value": "12447"
         },
         {
           "Name": "Content-Type",
@@ -27114,11 +27156,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0k9FQte0MMtIbQc7uwsnU4DnrdURC+HWE/vse4nHSp0=\""
+          "Value": "\"QyM1LsF0jzHXat2MR7eIp9fiXlPZ9Ud9COq4iYQXzbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27136,7 +27178,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1c07427vn8"
+          "Value": "b8l3hhk1dg"
         },
         {
           "Name": "label",
@@ -27144,12 +27186,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0k9FQte0MMtIbQc7uwsnU4DnrdURC+HWE/vse4nHSp0="
+          "Value": "sha256-QyM1LsF0jzHXat2MR7eIp9fiXlPZ9Ud9COq4iYQXzbQ="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.5r7xnn88k6.pdb",
+      "Route": "_framework/NurBilgi.Domain.pdb",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -27167,35 +27209,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4=\""
+          "Value": "\"J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:40 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:10 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "5r7xnn88k6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Domain.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4="
+          "Value": "sha256-J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.5r7xnn88k6.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-5r7xnn88k6.gz",
+      "Route": "_framework/NurBilgi.Domain.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-rnxz10mfea.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -27214,15 +27248,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xuLSh6poao1NMqvxoyyy7YONMreGhAMebwJPdigm/GY=\""
+          "Value": "\"BoTPFJgHmyyKESiJoElAJc+a1Y0eDGUyxkHxi9xNEms=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -27238,27 +27272,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4=\""
+          "Value": "W/\"J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "5r7xnn88k6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Domain.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4="
+          "Value": "sha256-J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.5r7xnn88k6.pdb.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-5r7xnn88k6.gz",
+      "Route": "_framework/NurBilgi.Domain.pdb.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-rnxz10mfea.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27275,11 +27301,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xuLSh6poao1NMqvxoyyy7YONMreGhAMebwJPdigm/GY=\""
+          "Value": "\"BoTPFJgHmyyKESiJoElAJc+a1Y0eDGUyxkHxi9xNEms=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BoTPFJgHmyyKESiJoElAJc+a1Y0eDGUyxkHxi9xNEms="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Domain.rnxz10mfea.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:37:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnxz10mfea"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Domain.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Domain.rnxz10mfea.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-rnxz10mfea.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000087535014"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11423"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoTPFJgHmyyKESiJoElAJc+a1Y0eDGUyxkHxi9xNEms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnxz10mfea"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Domain.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J1aq7wgYUsxyceeMFWRhXO6u/iG4qJ0kB/Cs1zL/LF8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Domain.rnxz10mfea.pdb.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-rnxz10mfea.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoTPFJgHmyyKESiJoElAJc+a1Y0eDGUyxkHxi9xNEms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27297,7 +27476,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5r7xnn88k6"
+          "Value": "rnxz10mfea"
         },
         {
           "Name": "label",
@@ -27305,144 +27484,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xuLSh6poao1NMqvxoyyy7YONMreGhAMebwJPdigm/GY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Domain.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.Domain.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21092"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Domain.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-5r7xnn88k6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000087535014"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11423"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xuLSh6poao1NMqvxoyyy7YONMreGhAMebwJPdigm/GY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f6dfIwoFSu3aofM1F55GyPUd9JKgVgwnOnGsZf+eeT4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Domain.pdb.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/a7vn40c7hy-5r7xnn88k6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11423"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xuLSh6poao1NMqvxoyyy7YONMreGhAMebwJPdigm/GY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xuLSh6poao1NMqvxoyyy7YONMreGhAMebwJPdigm/GY="
+          "Value": "sha256-BoTPFJgHmyyKESiJoElAJc+a1Y0eDGUyxkHxi9xNEms="
         }
       ]
     },
@@ -27465,11 +27507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y=\""
+          "Value": "\"O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27479,18 +27521,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y="
+          "Value": "sha256-O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Domain.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-1c07427vn8.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-b8l3hhk1dg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080347099"
+          "Quality": "0.000080334190"
         }
       ],
       "ResponseHeaders": [
@@ -27500,15 +27542,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12445"
+          "Value": "12447"
         },
         {
           "Name": "ETag",
-          "Value": "\"0k9FQte0MMtIbQc7uwsnU4DnrdURC+HWE/vse4nHSp0=\""
+          "Value": "\"QyM1LsF0jzHXat2MR7eIp9fiXlPZ9Ud9COq4iYQXzbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27528,19 +27570,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y=\""
+          "Value": "W/\"O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cfmadrB5+JNSFX64z0T0K6yEdZf1FRVHhX2qontib5Y="
+          "Value": "sha256-O6MDGTElbTVEAnQElbwKiKDtHCj9ScWgYGBWnCps+OE="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Domain.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-1c07427vn8.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dd8z0p3uho-b8l3hhk1dg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27549,7 +27591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12445"
+          "Value": "12447"
         },
         {
           "Name": "Content-Type",
@@ -27557,11 +27599,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0k9FQte0MMtIbQc7uwsnU4DnrdURC+HWE/vse4nHSp0=\""
+          "Value": "\"QyM1LsF0jzHXat2MR7eIp9fiXlPZ9Ud9COq4iYQXzbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27579,173 +27621,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0k9FQte0MMtIbQc7uwsnU4DnrdURC+HWE/vse4nHSp0="
+          "Value": "sha256-QyM1LsF0jzHXat2MR7eIp9fiXlPZ9Ud9COq4iYQXzbQ="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.95m4lsu223.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.WebPanel.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37392"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "95m4lsu223"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.WebPanel.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.WebPanel.95m4lsu223.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-95m4lsu223.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000034044871"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29372"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"40fIdkHXffhtWgCHuaWNOG/xcGgtI+TW4Fbomphf7I4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "95m4lsu223"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.WebPanel.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.WebPanel.95m4lsu223.pdb.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-95m4lsu223.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"40fIdkHXffhtWgCHuaWNOG/xcGgtI+TW4Fbomphf7I4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "95m4lsu223"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.WebPanel.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-40fIdkHXffhtWgCHuaWNOG/xcGgtI+TW4Fbomphf7I4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.WebPanel.mn2pzk8jjq.wasm",
+      "Route": "_framework/NurBilgi.WebPanel.6auedjstfs.wasm",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.WebPanel.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -27755,7 +27636,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80149"
+          "Value": "88853"
         },
         {
           "Name": "Content-Type",
@@ -27763,11 +27644,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc=\""
+          "Value": "\"MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:23 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27777,7 +27658,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mn2pzk8jjq"
+          "Value": "6auedjstfs"
         },
         {
           "Name": "label",
@@ -27785,18 +27666,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc="
+          "Value": "sha256-MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.mn2pzk8jjq.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-mn2pzk8jjq.gz",
+      "Route": "_framework/NurBilgi.WebPanel.6auedjstfs.wasm",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-6auedjstfs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000054728546"
+          "Quality": "0.000050751117"
         }
       ],
       "ResponseHeaders": [
@@ -27806,15 +27687,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18271"
+          "Value": "19703"
         },
         {
           "Name": "ETag",
-          "Value": "\"c8/yws6TdvWD2ElNJ8TNlu3f3R/qxqILp/+ZmqAc4Y0=\""
+          "Value": "\"xgiTindYngzKCdlQPbUyvRqiNqLMRnDeKDpCpShYbTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27834,13 +27715,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc=\""
+          "Value": "W/\"MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mn2pzk8jjq"
+          "Value": "6auedjstfs"
         },
         {
           "Name": "label",
@@ -27848,13 +27729,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc="
+          "Value": "sha256-MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.mn2pzk8jjq.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-mn2pzk8jjq.gz",
+      "Route": "_framework/NurBilgi.WebPanel.6auedjstfs.wasm.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-6auedjstfs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27863,7 +27744,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18271"
+          "Value": "19703"
         },
         {
           "Name": "Content-Type",
@@ -27871,11 +27752,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c8/yws6TdvWD2ElNJ8TNlu3f3R/qxqILp/+ZmqAc4Y0=\""
+          "Value": "\"xgiTindYngzKCdlQPbUyvRqiNqLMRnDeKDpCpShYbTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27893,7 +27774,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mn2pzk8jjq"
+          "Value": "6auedjstfs"
         },
         {
           "Name": "label",
@@ -27901,7 +27782,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c8/yws6TdvWD2ElNJ8TNlu3f3R/qxqILp/+ZmqAc4Y0="
+          "Value": "sha256-xgiTindYngzKCdlQPbUyvRqiNqLMRnDeKDpCpShYbTk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.WebPanel.l1m048ti2j.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/NurBilgi.WebPanel.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 22:51:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1m048ti2j"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.WebPanel.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.WebPanel.l1m048ti2j.pdb",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-l1m048ti2j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032603026"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30671"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EezYSlLBSEegjusq9QnBHG+Wv0Mhz5g43eSth8Ly6Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1m048ti2j"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.WebPanel.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.WebPanel.l1m048ti2j.pdb.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-l1m048ti2j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EezYSlLBSEegjusq9QnBHG+Wv0Mhz5g43eSth8Ly6Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1m048ti2j"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.WebPanel.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EezYSlLBSEegjusq9QnBHG+Wv0Mhz5g43eSth8Ly6Lg="
         }
       ]
     },
@@ -27916,7 +27958,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37392"
+          "Value": "38660"
         },
         {
           "Name": "Content-Type",
@@ -27924,11 +27966,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU=\""
+          "Value": "\"Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:23 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27938,18 +27980,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU="
+          "Value": "sha256-Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.pdb",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-95m4lsu223.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-l1m048ti2j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000034044871"
+          "Quality": "0.000032603026"
         }
       ],
       "ResponseHeaders": [
@@ -27959,15 +28001,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29372"
+          "Value": "30671"
         },
         {
           "Name": "ETag",
-          "Value": "\"40fIdkHXffhtWgCHuaWNOG/xcGgtI+TW4Fbomphf7I4=\""
+          "Value": "\"EezYSlLBSEegjusq9QnBHG+Wv0Mhz5g43eSth8Ly6Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27987,19 +28029,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU=\""
+          "Value": "W/\"Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hc6ltpw+TjZhtGvjCYUz0tacGPERRp585aPyM2tNHnU="
+          "Value": "sha256-Z5zAeGC54Q/TwXFn0ssIfmIwlnHz7VDCu3sMH4avkbw="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.pdb.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-95m4lsu223.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/teqrsgw6wb-l1m048ti2j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -28008,7 +28050,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29372"
+          "Value": "30671"
         },
         {
           "Name": "Content-Type",
@@ -28016,11 +28058,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"40fIdkHXffhtWgCHuaWNOG/xcGgtI+TW4Fbomphf7I4=\""
+          "Value": "\"EezYSlLBSEegjusq9QnBHG+Wv0Mhz5g43eSth8Ly6Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28038,7 +28080,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-40fIdkHXffhtWgCHuaWNOG/xcGgtI+TW4Fbomphf7I4="
+          "Value": "sha256-EezYSlLBSEegjusq9QnBHG+Wv0Mhz5g43eSth8Ly6Lg="
         }
       ]
     },
@@ -28053,7 +28095,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80149"
+          "Value": "88853"
         },
         {
           "Name": "Content-Type",
@@ -28061,11 +28103,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc=\""
+          "Value": "\"MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:23 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28075,18 +28117,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc="
+          "Value": "sha256-MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-mn2pzk8jjq.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-6auedjstfs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000054728546"
+          "Quality": "0.000050751117"
         }
       ],
       "ResponseHeaders": [
@@ -28096,15 +28138,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18271"
+          "Value": "19703"
         },
         {
           "Name": "ETag",
-          "Value": "\"c8/yws6TdvWD2ElNJ8TNlu3f3R/qxqILp/+ZmqAc4Y0=\""
+          "Value": "\"xgiTindYngzKCdlQPbUyvRqiNqLMRnDeKDpCpShYbTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28124,19 +28166,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc=\""
+          "Value": "W/\"MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-suzZxKbdKZVAhfgDEvEwZdF/usICLUq5Qx0vZqL4fvc="
+          "Value": "sha256-MhbM0OcYJkzqR8geDujCVeVRBOPLy5FUay86EwayJKA="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-mn2pzk8jjq.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/dv76d2hfbl-6auedjstfs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -28145,7 +28187,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18271"
+          "Value": "19703"
         },
         {
           "Name": "Content-Type",
@@ -28153,11 +28195,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c8/yws6TdvWD2ElNJ8TNlu3f3R/qxqILp/+ZmqAc4Y0=\""
+          "Value": "\"xgiTindYngzKCdlQPbUyvRqiNqLMRnDeKDpCpShYbTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:26 GMT"
+          "Value": "Wed, 26 Feb 2025 22:51:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28175,7 +28217,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c8/yws6TdvWD2ElNJ8TNlu3f3R/qxqILp/+ZmqAc4Y0="
+          "Value": "sha256-xgiTindYngzKCdlQPbUyvRqiNqLMRnDeKDpCpShYbTk="
         }
       ]
     },
@@ -76158,7 +76200,7 @@
       ]
     },
     {
-      "Route": "_framework/tr-TR/NurBilgi.Application.resources.dzpmqcjusr.wasm",
+      "Route": "_framework/tr-TR/NurBilgi.Application.resources.nbgltgarz8.wasm",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/bin/Debug/net9.0/wwwroot/_framework/tr-TR/NurBilgi.Application.resources.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -76176,11 +76218,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0=\""
+          "Value": "\"Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -76190,7 +76232,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dzpmqcjusr"
+          "Value": "nbgltgarz8"
         },
         {
           "Name": "label",
@@ -76198,18 +76240,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0="
+          "Value": "sha256-Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y="
         }
       ]
     },
     {
-      "Route": "_framework/tr-TR/NurBilgi.Application.resources.dzpmqcjusr.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-dzpmqcjusr.gz",
+      "Route": "_framework/tr-TR/NurBilgi.Application.resources.nbgltgarz8.wasm",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-nbgltgarz8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000551267916"
+          "Quality": "0.000550964187"
         }
       ],
       "ResponseHeaders": [
@@ -76219,15 +76261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1813"
+          "Value": "1814"
         },
         {
           "Name": "ETag",
-          "Value": "\"VgPoVLgrS0pc1tk5BeOsdK9WnGVUE+0f9iaFbQniNSE=\""
+          "Value": "\"cf+iDQS5cJGVIlwynI7qORUvmYXbduTa5egQrw3dwXQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -76247,13 +76289,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0=\""
+          "Value": "W/\"Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dzpmqcjusr"
+          "Value": "nbgltgarz8"
         },
         {
           "Name": "label",
@@ -76261,13 +76303,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0="
+          "Value": "sha256-Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y="
         }
       ]
     },
     {
-      "Route": "_framework/tr-TR/NurBilgi.Application.resources.dzpmqcjusr.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-dzpmqcjusr.gz",
+      "Route": "_framework/tr-TR/NurBilgi.Application.resources.nbgltgarz8.wasm.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-nbgltgarz8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -76276,7 +76318,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1813"
+          "Value": "1814"
         },
         {
           "Name": "Content-Type",
@@ -76284,11 +76326,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VgPoVLgrS0pc1tk5BeOsdK9WnGVUE+0f9iaFbQniNSE=\""
+          "Value": "\"cf+iDQS5cJGVIlwynI7qORUvmYXbduTa5egQrw3dwXQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -76306,7 +76348,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dzpmqcjusr"
+          "Value": "nbgltgarz8"
         },
         {
           "Name": "label",
@@ -76314,7 +76356,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VgPoVLgrS0pc1tk5BeOsdK9WnGVUE+0f9iaFbQniNSE="
+          "Value": "sha256-cf+iDQS5cJGVIlwynI7qORUvmYXbduTa5egQrw3dwXQ="
         }
       ]
     },
@@ -76337,11 +76379,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0=\""
+          "Value": "\"Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:45 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -76351,18 +76393,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0="
+          "Value": "sha256-Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y="
         }
       ]
     },
     {
       "Route": "_framework/tr-TR/NurBilgi.Application.resources.wasm",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-dzpmqcjusr.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-nbgltgarz8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000551267916"
+          "Quality": "0.000550964187"
         }
       ],
       "ResponseHeaders": [
@@ -76372,15 +76414,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1813"
+          "Value": "1814"
         },
         {
           "Name": "ETag",
-          "Value": "\"VgPoVLgrS0pc1tk5BeOsdK9WnGVUE+0f9iaFbQniNSE=\""
+          "Value": "\"cf+iDQS5cJGVIlwynI7qORUvmYXbduTa5egQrw3dwXQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -76400,19 +76442,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0=\""
+          "Value": "W/\"Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CedLEdME2IBJPmEJyFuqv5+050ljl3AJUBqx9lvYqn0="
+          "Value": "sha256-Hd2U/zoIUMbQVLEysDITfvh+Dn28om72fOXZDfp7L+Y="
         }
       ]
     },
     {
       "Route": "_framework/tr-TR/NurBilgi.Application.resources.wasm.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-dzpmqcjusr.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/rbwqg0i73k-nbgltgarz8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -76421,7 +76463,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1813"
+          "Value": "1814"
         },
         {
           "Name": "Content-Type",
@@ -76429,11 +76471,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VgPoVLgrS0pc1tk5BeOsdK9WnGVUE+0f9iaFbQniNSE=\""
+          "Value": "\"cf+iDQS5cJGVIlwynI7qORUvmYXbduTa5egQrw3dwXQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 20:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -76451,7 +76493,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VgPoVLgrS0pc1tk5BeOsdK9WnGVUE+0f9iaFbQniNSE="
+          "Value": "sha256-cf+iDQS5cJGVIlwynI7qORUvmYXbduTa5egQrw3dwXQ="
         }
       ]
     },
@@ -77649,12 +77691,12 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-oep2khd84g.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-x81nnouvgm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067150148"
+          "Quality": "0.000063504160"
         }
       ],
       "ResponseHeaders": [
@@ -77664,15 +77706,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14891"
+          "Value": "15746"
         },
         {
           "Name": "ETag",
-          "Value": "\"H9RlKVVy+htIuMmnE1G7WMCP51KNk7d5XaQNTxdTG5w=\""
+          "Value": "\"iIZ+K8yr5yQ5+6f2SCr/B4WHnJkoGAoDeQ0ARt8xHpM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:02 GMT"
+          "Value": "Wed, 26 Feb 2025 22:47:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -77692,13 +77734,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI=\""
+          "Value": "W/\"Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI="
+          "Value": "sha256-Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA="
         }
       ]
     },
@@ -77713,7 +77755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74796"
+          "Value": "80387"
         },
         {
           "Name": "Content-Type",
@@ -77721,11 +77763,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI=\""
+          "Value": "\"Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:02 GMT"
+          "Value": "Wed, 26 Feb 2025 22:47:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -77735,13 +77777,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI="
+          "Value": "sha256-Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA="
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-oep2khd84g.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-x81nnouvgm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -77750,7 +77792,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14891"
+          "Value": "15746"
         },
         {
           "Name": "Content-Type",
@@ -77758,11 +77800,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H9RlKVVy+htIuMmnE1G7WMCP51KNk7d5XaQNTxdTG5w=\""
+          "Value": "\"iIZ+K8yr5yQ5+6f2SCr/B4WHnJkoGAoDeQ0ARt8xHpM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:02 GMT"
+          "Value": "Wed, 26 Feb 2025 22:47:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -77780,18 +77822,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H9RlKVVy+htIuMmnE1G7WMCP51KNk7d5XaQNTxdTG5w="
+          "Value": "sha256-iIZ+K8yr5yQ5+6f2SCr/B4WHnJkoGAoDeQ0ARt8xHpM="
         }
       ]
     },
     {
-      "Route": "css/app.oep2khd84g.css",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-oep2khd84g.gz",
+      "Route": "css/app.x81nnouvgm.css",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-x81nnouvgm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067150148"
+          "Quality": "0.000063504160"
         }
       ],
       "ResponseHeaders": [
@@ -77801,15 +77843,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14891"
+          "Value": "15746"
         },
         {
           "Name": "ETag",
-          "Value": "\"H9RlKVVy+htIuMmnE1G7WMCP51KNk7d5XaQNTxdTG5w=\""
+          "Value": "\"iIZ+K8yr5yQ5+6f2SCr/B4WHnJkoGAoDeQ0ARt8xHpM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:02 GMT"
+          "Value": "Wed, 26 Feb 2025 22:47:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -77829,13 +77871,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI=\""
+          "Value": "W/\"Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oep2khd84g"
+          "Value": "x81nnouvgm"
         },
         {
           "Name": "label",
@@ -77843,12 +77885,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI="
+          "Value": "sha256-Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA="
         }
       ]
     },
     {
-      "Route": "css/app.oep2khd84g.css",
+      "Route": "css/app.x81nnouvgm.css",
       "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -77858,7 +77900,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74796"
+          "Value": "80387"
         },
         {
           "Name": "Content-Type",
@@ -77866,11 +77908,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI=\""
+          "Value": "\"Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:02 GMT"
+          "Value": "Wed, 26 Feb 2025 22:47:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -77880,7 +77922,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oep2khd84g"
+          "Value": "x81nnouvgm"
         },
         {
           "Name": "label",
@@ -77888,13 +77930,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IDURi5kZUARJNNbi91CJNaHuZ6KvdBtFPxjQllnYzSI="
+          "Value": "sha256-Ed0SUS1FiohMHF+qrvdnaEb6Em22Qt7L0QRRZboBzzA="
         }
       ]
     },
     {
-      "Route": "css/app.oep2khd84g.css.gz",
-      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-oep2khd84g.gz",
+      "Route": "css/app.x81nnouvgm.css.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/3smqx5osgu-x81nnouvgm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -77903,7 +77945,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14891"
+          "Value": "15746"
         },
         {
           "Name": "Content-Type",
@@ -77911,11 +77953,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H9RlKVVy+htIuMmnE1G7WMCP51KNk7d5XaQNTxdTG5w=\""
+          "Value": "\"iIZ+K8yr5yQ5+6f2SCr/B4WHnJkoGAoDeQ0ARt8xHpM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 20:21:02 GMT"
+          "Value": "Wed, 26 Feb 2025 22:47:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -77933,7 +77975,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oep2khd84g"
+          "Value": "x81nnouvgm"
         },
         {
           "Name": "label",
@@ -77941,7 +77983,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H9RlKVVy+htIuMmnE1G7WMCP51KNk7d5XaQNTxdTG5w="
+          "Value": "sha256-iIZ+K8yr5yQ5+6f2SCr/B4WHnJkoGAoDeQ0ARt8xHpM="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-styles.css",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/1kforliimn-fwox89okx9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002688172043"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5m+ebo9Sbq4l3fKUNUnZuqSwCcH8p9yxZaa9MEy+ROU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-styles.css",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/custom-styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-styles.css.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/1kforliimn-fwox89okx9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5m+ebo9Sbq4l3fKUNUnZuqSwCcH8p9yxZaa9MEy+ROU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5m+ebo9Sbq4l3fKUNUnZuqSwCcH8p9yxZaa9MEy+ROU="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-styles.fwox89okx9.css",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/1kforliimn-fwox89okx9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002688172043"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5m+ebo9Sbq4l3fKUNUnZuqSwCcH8p9yxZaa9MEy+ROU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwox89okx9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom-styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-styles.fwox89okx9.css",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/custom-styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwox89okx9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom-styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T0iAObuySp9uhmM1VMqsQiU+HwYSkDWp3XwrY31FU+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-styles.fwox89okx9.css.gz",
+      "AssetFile": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/obj/Debug/net9.0/compressed/1kforliimn-fwox89okx9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5m+ebo9Sbq4l3fKUNUnZuqSwCcH8p9yxZaa9MEy+ROU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwox89okx9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom-styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5m+ebo9Sbq4l3fKUNUnZuqSwCcH8p9yxZaa9MEy+ROU="
         }
       ]
     },

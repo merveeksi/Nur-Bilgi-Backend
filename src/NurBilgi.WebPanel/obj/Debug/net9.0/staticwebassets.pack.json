@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/css/app.css"
     },
     {
+      "Id": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/css/custom-styles.css",
+      "PackagePath": "staticwebassets/css/custom-styles.css"
+    },
+    {
       "Id": "/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.WebPanel/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
