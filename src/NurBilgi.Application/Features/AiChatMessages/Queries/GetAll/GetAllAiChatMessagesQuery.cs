@@ -1,33 +1,26 @@
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using NurBilgi.Application.Common.Attiributes;
 using NurBilgi.Application.Common.Interfaces;
 
 namespace NurBilgi.Application.Features.AiChatMessages.Queries.GetAll;
 
-public record GetAllAiChatMessagesQuery : IRequest<List<AiChatMessageDto>>;
-
-public class GetAllAiChatMessagesQueryHandler : IRequestHandler<GetAllAiChatMessagesQuery, List<AiChatMessageDto>>
+public sealed record GetAllAiChatMessagesQuery : IRequest<List<AiChatMessageGetAllDto>>, ICacheable
 {
-    private readonly IApplicationDbContext _context;
+     public string MessageText { get; set; } = string.Empty;
+     public bool IsCustomerMessage { get; set; }
+     public DateTimeOffset Timestamp { get; set; }
+     [CacheKeyPart]
+     public long CustomerId { get; set; }
 
-    public GetAllAiChatMessagesQueryHandler(IApplicationDbContext context)
-    {
-        _context = context;
-    }
+     public string CacheGroup => "AiChatMessages";
 
+     public GetAllAiChatMessagesQuery(string messageText, bool isCustomerMessage, DateTimeOffset timestamp, long customerId)
+     {
+        MessageText = messageText;
+        IsCustomerMessage = isCustomerMessage;
+        Timestamp = timestamp;
+        CustomerId = customerId;
+     }
 
-    public Task<List<AiChatMessageDto>> Handle(GetAllAiChatMessagesQuery request, CancellationToken cancellationToken)
-    {
-        throw new NotImplementedException();
-    }
-}
-
-public class AiChatMessageDto
-{
-    public int Id { get; set; }
-    public string Message { get; set; }
-    public string Response { get; set; }
-    public string UserId { get; set; }
-    public DateTime CreatedAt { get; set; }
-    public DateTime? UpdatedAt { get; set; }
-} 
+};
