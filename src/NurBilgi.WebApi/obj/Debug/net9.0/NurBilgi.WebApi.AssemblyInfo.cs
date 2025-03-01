@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NurBilgi.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b56bb8903b354f3bb928523a5b6145294ab05e0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37be37e583c622e2f2659ee2a61277a1e77f7b5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NurBilgi.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NurBilgi.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
