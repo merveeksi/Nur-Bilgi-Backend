@@ -1,4 +1,3 @@
-using NurBilgi.Application.Common.Models.Auth;
 using NurBilgi.Application.Common.Models.Identity;
 using NurBilgi.Application.Features.Auth.Commands.Register;
 

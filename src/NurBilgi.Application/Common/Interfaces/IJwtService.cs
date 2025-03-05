@@ -1,3 +1,4 @@
+using NurBilgi.Application.Common.Models.Jwt;
 using NurBilgi.Domain.DomainEvents;
 using NurBilgi.Domain.ValueObjects;
 
@@ -5,6 +6,7 @@ namespace NurBilgi.Application.Common.Interfaces;
 
 public interface IJwtService
 {
-    AccessToken Generate(Guid userId, string email, FullName fullName, IList<string> roles,IList<string> permissions);
+    JwtGenerateTokenResponse GenerateToken(JwtGenerateTokenRequest request);
+    bool ValidateToken(string token);
     Guid GetUserIdFromJwt(string token);
 }
