@@ -4,8 +4,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using NurBilgi.Application.Common.Interfaces;
 using NurBilgi.Domain.Identity;
+using NurBilgi.Domain.Settings;
 using NurBilgi.Infrastructure.Persistence.EntityFramework.Contexts;
 using NurBilgi.Infrastructure.Services;
+using Microsoft.Extensions.Options;
 
 namespace NurBilgi.Infrastructure;
 
@@ -42,7 +44,14 @@ public static class DependencyInjection
           .AddEntityFrameworkStores<ApplicationDbContext>()
           .AddDefaultTokenProviders();
         
+        // Configure JwtSettings
+        services.Configure<JwtSettings>(configuration.GetSection(nameof(JwtSettings)));
+        services.AddSingleton(provider => provider.GetRequiredService<IOptions<JwtSettings>>().Value);
+        
         services.AddScoped<IIdentityService, IdentityManager>();
+        
+        // Register EmailService
+        services.AddScoped<IEmailService, EmailService>();
 
         return services;
 

@@ -13,13 +13,6 @@
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/refint/NurBilgi.Application.dll
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.pdb
 /Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/ref/NurBilgi.Application.dll
-/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.deps.json
-/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.dll
-/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.pdb
-/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/en-US/NurBilgi.Application.resources.dll
-/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/tr-TR/NurBilgi.Application.resources.dll
-/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Domain.dll
-/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Domain.pdb
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.csproj.AssemblyReference.cache
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.Resources.Validations.Translations.ValidationTranslations.en-US.resources
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.Resources.Validations.Translations.ValidationTranslations.tr-TR.resources
@@ -29,6 +22,13 @@
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.AssemblyInfo.cs
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.csproj.CoreCompileInputs.cache
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/NurBilgi.Application.sourcelink.json
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.deps.json
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Application.pdb
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/en-US/NurBilgi.Application.resources.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/tr-TR/NurBilgi.Application.resources.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Domain.dll
+/Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/bin/Debug/net9.0/NurBilgi.Domain.pdb
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/en-US/NurBilgi.Application.resources.cs
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/en-US/NurBilgi.Application.resources.dll
 /Users/merveeksi/Desktop/NurBilgi/src/NurBilgi.Application/obj/Debug/net9.0/tr-TR/NurBilgi.Application.resources.cs

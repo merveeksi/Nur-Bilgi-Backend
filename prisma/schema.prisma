@@ -1,0 +1,33 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Ilmihal {
+  id         String           @id @default(cuid())
+  title      String
+  author     String
+  description String
+  sections   IlmihalSection[]
+}
+
+model IlmihalSection {
+  id          String            @id @default(cuid())
+  title       String
+  content     String
+  subsections IlmihalSubsection[]
+  ilmihalId   String
+  ilmihal     Ilmihal           @relation(fields: [ilmihalId], references: [id])
+}
+
+model IlmihalSubsection {
+  id        String         @id @default(cuid())
+  title     String
+  content   String
+  sectionId String
+  section   IlmihalSection @relation(fields: [sectionId], references: [id])
+}

@@ -14,7 +14,7 @@ public sealed class ApplicationUser: IdentityUserBase<long>, ICreatedByEntity, I
     public string? Bio { get; set; }
     public DateTimeOffset LastOnLine { get; set; }
    
-    public static ApplicationUser Create(string fullName, string email)
+    public static ApplicationUser Create(FullName fullName, string email)
     {
 
         var id = TsidCreator

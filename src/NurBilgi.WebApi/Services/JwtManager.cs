@@ -4,7 +4,6 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
-using NurBilgi.Domain.DomainEvents;
 using NurBilgi.Domain.Identity;
 using NurBilgi.Domain.Settings;
 
@@ -20,10 +19,10 @@ public class JwtManager
     }
 
     // Generates a JSON Web Token (JWT) for user authentication.
-    public AccessToken GenerateToken(ApplicationUser applicationUser, IList<string> roles)
+    public string GenerateToken(ApplicationUser applicationUser, IList<string> roles)
     {
-        // Get the access token expiration time from settings.
-        var expirationInMinutes = _jwtSettings.AccessTokenExpiration;
+        // Get the token expiration time from settings.
+        var expirationInMinutes = _jwtSettings.TokenExpiration;
 
         // Calculate the expiration date of the token.
         var expirationDate = DateTime.UtcNow.Add(expirationInMinutes);
@@ -64,11 +63,8 @@ public class JwtManager
             signingCredentials: signingCredentials
         );
 
-        // Convert the JWT to a string.
-        var token = new JwtSecurityTokenHandler().WriteToken(jwtSecurityToken);
-
-        // Return the access token with its expiration date.
-        return new AccessToken(token, expirationDate);
+        // Convert the JWT to a string and return it.
+        return new JwtSecurityTokenHandler().WriteToken(jwtSecurityToken);
     }
 
     // Extracts the user ID from a JWT.

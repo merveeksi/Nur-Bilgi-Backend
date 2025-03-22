@@ -39,7 +39,7 @@ namespace NurBilgi.Infrastructure.Persistence.EntityFramework.Migrations
                     b.Property<DateTimeOffset>("CreatedOn")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("timestamp with time zone")
-                        .HasDefaultValue(new DateTimeOffset(new DateTime(2025, 2, 21, 22, 40, 40, 457, DateTimeKind.Unspecified).AddTicks(8960), new TimeSpan(0, 0, 0, 0, 0)))
+                        .HasDefaultValue(new DateTimeOffset(new DateTime(2025, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)))
                         .HasColumnName("created_on");
 
                     b.Property<long>("CustomerId")
@@ -161,7 +161,7 @@ namespace NurBilgi.Infrastructure.Persistence.EntityFramework.Migrations
                     b.Property<DateTimeOffset>("CreatedOn")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("timestamp with time zone")
-                        .HasDefaultValue(new DateTimeOffset(new DateTime(2025, 2, 21, 22, 40, 40, 508, DateTimeKind.Unspecified).AddTicks(2620), new TimeSpan(0, 0, 0, 0, 0)))
+                        .HasDefaultValue(new DateTimeOffset(new DateTime(2025, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)))
                         .HasColumnName("created_on");
 
                     b.Property<string>("DeletedByUserId")
@@ -261,7 +261,7 @@ namespace NurBilgi.Infrastructure.Persistence.EntityFramework.Migrations
                     b.Property<DateTimeOffset>("CreatedOn")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("timestamp with time zone")
-                        .HasDefaultValue(new DateTimeOffset(new DateTime(2025, 2, 21, 22, 40, 40, 510, DateTimeKind.Unspecified).AddTicks(9930), new TimeSpan(0, 0, 0, 0, 0)))
+                        .HasDefaultValue(new DateTimeOffset(new DateTime(2025, 3, 22, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)))
                         .HasColumnName("created_on");
 
                     b.Property<long>("CustomerId")

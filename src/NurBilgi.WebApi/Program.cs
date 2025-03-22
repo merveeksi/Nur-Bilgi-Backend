@@ -4,13 +4,17 @@ using NurBilgi.Application.Common.Interfaces;
 using NurBilgi.Infrastructure;
 using NurBilgi.WebApi;
 using NurBilgi.WebApi.Extensions;
+using NurBilgi.WebApi.Extensions.Swagger;
+using NurBilgi.WebApi.Filters;
 using NurBilgi.WebApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options => {
+    options.Filters.Add<GlobalExceptionFilter>();
+});
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -29,13 +33,21 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
     options.SuppressModelStateInvalidFilter = true;
 });
 
-builder.Services.AddControllers(options =>{
-    options.Filters.Add<GlobalExceptionFilter>();
+// Configure CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        policy =>
+        {
+            policy
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+        });
 });
 
-
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+builder.Services.AddSwaggerWithVersion();
 
 var app = builder.Build();
 
@@ -44,7 +56,6 @@ app.UseCors("AllowAll");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
     app.UseSwaggerWithVersion();
     app.UseDeveloperExceptionPage();
 }

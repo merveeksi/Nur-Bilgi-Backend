@@ -22,7 +22,7 @@ public class AiChatMessageConfiguration : IEntityTypeConfiguration<AiChatMessage
         
         // CreatedOn
         builder.Property(x => x.CreatedOn)
-            .HasDefaultValue(DateTimeOffset.UtcNow)
+            .HasDefaultValue(new DateTimeOffset(2025, 3, 22, 0, 0, 0, TimeSpan.Zero))
             .IsRequired();
 
         // CreatedByUserId
