@@ -9,6 +9,11 @@ public sealed record AuthLoginCommand : IRequest<ResponseDto<AuthLoginDto>>
     public string Email { get; set; }
     public string Password { get; set; }
     
+    // Boş constructor eklendi (model binding için)
+    public AuthLoginCommand()
+    {
+    }
+    
     public AuthLoginCommand(string email, string password)
     {
         Email = email;

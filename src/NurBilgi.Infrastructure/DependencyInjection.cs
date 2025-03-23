@@ -6,6 +6,7 @@ using NurBilgi.Application.Common.Interfaces;
 using NurBilgi.Domain.Identity;
 using NurBilgi.Domain.Settings;
 using NurBilgi.Infrastructure.Persistence.EntityFramework.Contexts;
+using NurBilgi.Infrastructure.Persistence.EntityFramework.Seeders;
 using NurBilgi.Infrastructure.Services;
 using Microsoft.Extensions.Options;
 
@@ -26,6 +27,8 @@ public static class DependencyInjection
         
         services.AddScoped<ICacheInvalidator, CacheInvalidator>();
         
+        // Veritabanı Seeder'ını ekle
+        services.AddScoped<ApplicationDbSeeder>();
 
         // Add localization
         services.AddLocalization(options => options.ResourcesPath = "Resources");

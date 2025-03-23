@@ -12954,169 +12954,8 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.22b64cy3fb.wasm",
-      "AssetFile": "_framework/NurBilgi.Application.22b64cy3fb.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "213781"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "22b64cy3fb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Application.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Application.22b64cy3fb.wasm",
-      "AssetFile": "_framework/NurBilgi.Application.22b64cy3fb.wasm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000013684571"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "73074"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EEAjqIRQt36BOQNZDDCS90nYgzS3sPwSQ0j7lL1yWUQ=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "22b64cy3fb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Application.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Application.22b64cy3fb.wasm.gz",
-      "AssetFile": "_framework/NurBilgi.Application.22b64cy3fb.wasm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "73074"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EEAjqIRQt36BOQNZDDCS90nYgzS3sPwSQ0j7lL1yWUQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "22b64cy3fb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EEAjqIRQt36BOQNZDDCS90nYgzS3sPwSQ0j7lL1yWUQ="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Application.wasm.gz"
-        }
-      ]
-    },
-    {
       "Route": "_framework/NurBilgi.Application.pdb",
-      "AssetFile": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb",
+      "AssetFile": "_framework/NurBilgi.Application.v4rjyjd23u.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13129,7 +12968,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "67088"
+          "Value": "67616"
         },
         {
           "Name": "Content-Type",
@@ -13137,28 +12976,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM=\""
+          "Value": "\"4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:44 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:13 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM="
+          "Value": "sha256-4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Application.pdb",
-      "AssetFile": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.Application.v4rjyjd23u.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000031409008"
+          "Quality": "0.000031198328"
         }
       ],
       "ResponseHeaders": [
@@ -13176,7 +13015,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31837"
+          "Value": "32052"
         },
         {
           "Name": "Content-Type",
@@ -13184,15 +13023,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fn7hBjL2ElQzkY+vQz7wfMgjBJ1gZE6eaOBMODdnkEk=\""
+          "Value": "\"L0G1Gmoxq4bg/3j209dLddFLYRj3b8J/PYyHHPgbKk8=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM=\""
+          "Value": "W/\"4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -13202,13 +13041,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM="
+          "Value": "sha256-4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Application.pdb.gz",
-      "AssetFile": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.Application.v4rjyjd23u.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13225,7 +13064,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31837"
+          "Value": "32052"
         },
         {
           "Name": "Content-Type",
@@ -13233,11 +13072,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fn7hBjL2ElQzkY+vQz7wfMgjBJ1gZE6eaOBMODdnkEk=\""
+          "Value": "\"L0G1Gmoxq4bg/3j209dLddFLYRj3b8J/PYyHHPgbKk8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -13247,13 +13086,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Fn7hBjL2ElQzkY+vQz7wfMgjBJ1gZE6eaOBMODdnkEk="
+          "Value": "sha256-L0G1Gmoxq4bg/3j209dLddFLYRj3b8J/PYyHHPgbKk8="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb",
-      "AssetFile": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb",
+      "Route": "_framework/NurBilgi.Application.v4rjyjd23u.pdb",
+      "AssetFile": "_framework/NurBilgi.Application.v4rjyjd23u.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13266,7 +13105,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "67088"
+          "Value": "67616"
         },
         {
           "Name": "Content-Type",
@@ -13274,21 +13113,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM=\""
+          "Value": "\"4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:44 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:13 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pvtvdkpu0f"
+          "Value": "v4rjyjd23u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM="
+          "Value": "sha256-4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI="
         },
         {
           "Name": "label",
@@ -13297,13 +13136,13 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb",
-      "AssetFile": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb.gz",
+      "Route": "_framework/NurBilgi.Application.v4rjyjd23u.pdb",
+      "AssetFile": "_framework/NurBilgi.Application.v4rjyjd23u.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000031409008"
+          "Quality": "0.000031198328"
         }
       ],
       "ResponseHeaders": [
@@ -13321,7 +13160,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31837"
+          "Value": "32052"
         },
         {
           "Name": "Content-Type",
@@ -13329,15 +13168,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fn7hBjL2ElQzkY+vQz7wfMgjBJ1gZE6eaOBMODdnkEk=\""
+          "Value": "\"L0G1Gmoxq4bg/3j209dLddFLYRj3b8J/PYyHHPgbKk8=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM=\""
+          "Value": "W/\"4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -13347,11 +13186,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pvtvdkpu0f"
+          "Value": "v4rjyjd23u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BbZIhFb9JBhR2dB1M1E6s8WQEL8+gc+KkwPjBEoxafM="
+          "Value": "sha256-4RFFRhUTDMvGke4os880wnF6aQM8Vi2+8WfdhF8GipI="
         },
         {
           "Name": "label",
@@ -13360,8 +13199,8 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb.gz",
-      "AssetFile": "_framework/NurBilgi.Application.pvtvdkpu0f.pdb.gz",
+      "Route": "_framework/NurBilgi.Application.v4rjyjd23u.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.Application.v4rjyjd23u.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13378,7 +13217,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31837"
+          "Value": "32052"
         },
         {
           "Name": "Content-Type",
@@ -13386,11 +13225,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fn7hBjL2ElQzkY+vQz7wfMgjBJ1gZE6eaOBMODdnkEk=\""
+          "Value": "\"L0G1Gmoxq4bg/3j209dLddFLYRj3b8J/PYyHHPgbKk8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -13400,11 +13239,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pvtvdkpu0f"
+          "Value": "v4rjyjd23u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fn7hBjL2ElQzkY+vQz7wfMgjBJ1gZE6eaOBMODdnkEk="
+          "Value": "sha256-L0G1Gmoxq4bg/3j209dLddFLYRj3b8J/PYyHHPgbKk8="
         },
         {
           "Name": "label",
@@ -13414,7 +13253,7 @@
     },
     {
       "Route": "_framework/NurBilgi.Application.wasm",
-      "AssetFile": "_framework/NurBilgi.Application.22b64cy3fb.wasm",
+      "AssetFile": "_framework/NurBilgi.Application.ylnxchy1ng.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13427,7 +13266,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "213781"
+          "Value": "215829"
         },
         {
           "Name": "Content-Type",
@@ -13435,28 +13274,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg=\""
+          "Value": "\"OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg="
+          "Value": "sha256-OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Application.wasm",
-      "AssetFile": "_framework/NurBilgi.Application.22b64cy3fb.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.Application.ylnxchy1ng.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000013684571"
+          "Quality": "0.000013559138"
         }
       ],
       "ResponseHeaders": [
@@ -13474,7 +13313,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73074"
+          "Value": "73750"
         },
         {
           "Name": "Content-Type",
@@ -13482,15 +13321,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EEAjqIRQt36BOQNZDDCS90nYgzS3sPwSQ0j7lL1yWUQ=\""
+          "Value": "\"RaAarujKPBHrZj2AxZwggA0LVJ7kBB+mydo/40XxH8A=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg=\""
+          "Value": "W/\"OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -13500,13 +13339,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hm6/U+FCIdjSuMxYW9TVTDX7UOq+4iI7JXZQ2GiPkOg="
+          "Value": "sha256-OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Application.wasm.gz",
-      "AssetFile": "_framework/NurBilgi.Application.22b64cy3fb.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.Application.ylnxchy1ng.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13523,7 +13362,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73074"
+          "Value": "73750"
         },
         {
           "Name": "Content-Type",
@@ -13531,11 +13370,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EEAjqIRQt36BOQNZDDCS90nYgzS3sPwSQ0j7lL1yWUQ=\""
+          "Value": "\"RaAarujKPBHrZj2AxZwggA0LVJ7kBB+mydo/40XxH8A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -13545,13 +13384,335 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EEAjqIRQt36BOQNZDDCS90nYgzS3sPwSQ0j7lL1yWUQ="
+          "Value": "sha256-RaAarujKPBHrZj2AxZwggA0LVJ7kBB+mydo/40XxH8A="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm",
-      "AssetFile": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm",
+      "Route": "_framework/NurBilgi.Application.ylnxchy1ng.wasm",
+      "AssetFile": "_framework/NurBilgi.Application.ylnxchy1ng.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 00:53:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylnxchy1ng"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Application.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Application.ylnxchy1ng.wasm",
+      "AssetFile": "_framework/NurBilgi.Application.ylnxchy1ng.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013559138"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaAarujKPBHrZj2AxZwggA0LVJ7kBB+mydo/40XxH8A=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylnxchy1ng"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OjrawNjBwufmXeFx6DoVS+Dx7fd8sX1dLw4bX9LpnUs="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Application.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Application.ylnxchy1ng.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.Application.ylnxchy1ng.wasm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaAarujKPBHrZj2AxZwggA0LVJ7kBB+mydo/40XxH8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylnxchy1ng"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaAarujKPBHrZj2AxZwggA0LVJ7kBB+mydo/40XxH8A="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Application.wasm.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb",
+      "AssetFile": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 00:44:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dzmao1m2wr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Domain.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb",
+      "AssetFile": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000086348329"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wzo/e5/+c6b/KWRNjYOKRXBYNZUfu+h9m8YE1NWiPlI=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 00:44:47 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dzmao1m2wr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Domain.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wzo/e5/+c6b/KWRNjYOKRXBYNZUfu+h9m8YE1NWiPlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 00:44:47 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dzmao1m2wr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wzo/e5/+c6b/KWRNjYOKRXBYNZUfu+h9m8YE1NWiPlI="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NurBilgi.Domain.pdb.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NurBilgi.Domain.jp00w5avei.wasm",
+      "AssetFile": "_framework/NurBilgi.Domain.jp00w5avei.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13572,21 +13733,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o=\""
+          "Value": "\"aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1uaaw24nqt"
+          "Value": "jp00w5avei"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o="
+          "Value": "sha256-aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs="
         },
         {
           "Name": "label",
@@ -13595,13 +13756,13 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm",
-      "AssetFile": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm.gz",
+      "Route": "_framework/NurBilgi.Domain.jp00w5avei.wasm",
+      "AssetFile": "_framework/NurBilgi.Domain.jp00w5avei.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000075987842"
+          "Quality": "0.000075999392"
         }
       ],
       "ResponseHeaders": [
@@ -13619,7 +13780,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13159"
+          "Value": "13157"
         },
         {
           "Name": "Content-Type",
@@ -13627,15 +13788,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tp+FBUFooJYaYUKqS/SOL4G8zP4Ka8ZyqCgN23ab+E4=\""
+          "Value": "\"aalIiISGPHVfpuEM3CHf7/DMxqK2o/AZDRx7NUiKSjU=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o=\""
+          "Value": "W/\"aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -13645,11 +13806,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1uaaw24nqt"
+          "Value": "jp00w5avei"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o="
+          "Value": "sha256-aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs="
         },
         {
           "Name": "label",
@@ -13658,8 +13819,8 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm.gz",
-      "AssetFile": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm.gz",
+      "Route": "_framework/NurBilgi.Domain.jp00w5avei.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.Domain.jp00w5avei.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13676,7 +13837,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13159"
+          "Value": "13157"
         },
         {
           "Name": "Content-Type",
@@ -13684,11 +13845,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tp+FBUFooJYaYUKqS/SOL4G8zP4Ka8ZyqCgN23ab+E4=\""
+          "Value": "\"aalIiISGPHVfpuEM3CHf7/DMxqK2o/AZDRx7NUiKSjU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -13698,11 +13859,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1uaaw24nqt"
+          "Value": "jp00w5avei"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Tp+FBUFooJYaYUKqS/SOL4G8zP4Ka8ZyqCgN23ab+E4="
+          "Value": "sha256-aalIiISGPHVfpuEM3CHf7/DMxqK2o/AZDRx7NUiKSjU="
         },
         {
           "Name": "label",
@@ -13712,7 +13873,7 @@
     },
     {
       "Route": "_framework/NurBilgi.Domain.pdb",
-      "AssetFile": "_framework/NurBilgi.Domain.wqojlqby0m.pdb",
+      "AssetFile": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13733,28 +13894,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM=\""
+          "Value": "\"2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:42 GMT"
+          "Value": "Sun, 23 Mar 2025 00:44:42 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM="
+          "Value": "sha256-2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Domain.pdb",
-      "AssetFile": "_framework/NurBilgi.Domain.wqojlqby0m.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000086355786"
+          "Quality": "0.000086348329"
         }
       ],
       "ResponseHeaders": [
@@ -13772,7 +13933,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11579"
+          "Value": "11580"
         },
         {
           "Name": "Content-Type",
@@ -13780,15 +13941,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pBeZfoALQtf3OpvM9Ux/EIxEtdyUDdmPnJqsaYEWU64=\""
+          "Value": "\"Wzo/e5/+c6b/KWRNjYOKRXBYNZUfu+h9m8YE1NWiPlI=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM=\""
+          "Value": "W/\"2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:44:47 GMT"
         },
         {
           "Name": "Vary",
@@ -13798,13 +13959,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM="
+          "Value": "sha256-2S7N50Jt4txbmKgdSKbrHeou0e14VYbowX4dz7/MPQU="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Domain.pdb.gz",
-      "AssetFile": "_framework/NurBilgi.Domain.wqojlqby0m.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.Domain.dzmao1m2wr.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13821,7 +13982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11579"
+          "Value": "11580"
         },
         {
           "Name": "Content-Type",
@@ -13829,11 +13990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pBeZfoALQtf3OpvM9Ux/EIxEtdyUDdmPnJqsaYEWU64=\""
+          "Value": "\"Wzo/e5/+c6b/KWRNjYOKRXBYNZUfu+h9m8YE1NWiPlI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:44:47 GMT"
         },
         {
           "Name": "Vary",
@@ -13843,13 +14004,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pBeZfoALQtf3OpvM9Ux/EIxEtdyUDdmPnJqsaYEWU64="
+          "Value": "sha256-Wzo/e5/+c6b/KWRNjYOKRXBYNZUfu+h9m8YE1NWiPlI="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Domain.wasm",
-      "AssetFile": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm",
+      "AssetFile": "_framework/NurBilgi.Domain.jp00w5avei.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13870,28 +14031,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o=\""
+          "Value": "\"aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o="
+          "Value": "sha256-aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Domain.wasm",
-      "AssetFile": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.Domain.jp00w5avei.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000075987842"
+          "Quality": "0.000075999392"
         }
       ],
       "ResponseHeaders": [
@@ -13909,7 +14070,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13159"
+          "Value": "13157"
         },
         {
           "Name": "Content-Type",
@@ -13917,15 +14078,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tp+FBUFooJYaYUKqS/SOL4G8zP4Ka8ZyqCgN23ab+E4=\""
+          "Value": "\"aalIiISGPHVfpuEM3CHf7/DMxqK2o/AZDRx7NUiKSjU=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o=\""
+          "Value": "W/\"aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -13935,13 +14096,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wb1ywW09Kew3asNl6aQHJ0Ser1MGZGIwJtW+7QjZy/o="
+          "Value": "sha256-aUgAAdE4PpmDH7G24iMmcdpeqWWqL1A8FJFH7t6JyHs="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.Domain.wasm.gz",
-      "AssetFile": "_framework/NurBilgi.Domain.1uaaw24nqt.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.Domain.jp00w5avei.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13958,7 +14119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13159"
+          "Value": "13157"
         },
         {
           "Name": "Content-Type",
@@ -13966,11 +14127,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tp+FBUFooJYaYUKqS/SOL4G8zP4Ka8ZyqCgN23ab+E4=\""
+          "Value": "\"aalIiISGPHVfpuEM3CHf7/DMxqK2o/AZDRx7NUiKSjU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -13980,174 +14141,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Tp+FBUFooJYaYUKqS/SOL4G8zP4Ka8ZyqCgN23ab+E4="
+          "Value": "sha256-aalIiISGPHVfpuEM3CHf7/DMxqK2o/AZDRx7NUiKSjU="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.Domain.wqojlqby0m.pdb",
-      "AssetFile": "_framework/NurBilgi.Domain.wqojlqby0m.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21456"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:42 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqojlqby0m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Domain.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Domain.wqojlqby0m.pdb",
-      "AssetFile": "_framework/NurBilgi.Domain.wqojlqby0m.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000086355786"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11579"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pBeZfoALQtf3OpvM9Ux/EIxEtdyUDdmPnJqsaYEWU64=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqojlqby0m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+O5QeuKy6/SQw1ldTvgR/AuvZwOl1ngEQ6qa4K7OPuM="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Domain.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.Domain.wqojlqby0m.pdb.gz",
-      "AssetFile": "_framework/NurBilgi.Domain.wqojlqby0m.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11579"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pBeZfoALQtf3OpvM9Ux/EIxEtdyUDdmPnJqsaYEWU64=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqojlqby0m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pBeZfoALQtf3OpvM9Ux/EIxEtdyUDdmPnJqsaYEWU64="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NurBilgi.Domain.pdb.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb",
-      "AssetFile": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb",
+      "Route": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb",
+      "AssetFile": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14168,21 +14168,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc=\""
+          "Value": "\"v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lohqcto3co"
+          "Value": "fgzh8v6uh7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc="
+          "Value": "sha256-v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk="
         },
         {
           "Name": "label",
@@ -14191,13 +14191,13 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb",
-      "AssetFile": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb.gz",
+      "Route": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb",
+      "AssetFile": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000032599837"
+          "Quality": "0.000032597712"
         }
       ],
       "ResponseHeaders": [
@@ -14215,7 +14215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30674"
+          "Value": "30676"
         },
         {
           "Name": "Content-Type",
@@ -14223,15 +14223,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F3TzMJfukJQJN8m5LXtNGEHZVDkr7qFy/L6D8F6lCng=\""
+          "Value": "\"92RwNglGeJUEtDhpcfvc++a+AGSU0mKPt6LKKpL4H4o=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc=\""
+          "Value": "W/\"v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14241,11 +14241,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lohqcto3co"
+          "Value": "fgzh8v6uh7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc="
+          "Value": "sha256-v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk="
         },
         {
           "Name": "label",
@@ -14254,8 +14254,8 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb.gz",
-      "AssetFile": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb.gz",
+      "Route": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14272,7 +14272,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30674"
+          "Value": "30676"
         },
         {
           "Name": "Content-Type",
@@ -14280,11 +14280,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F3TzMJfukJQJN8m5LXtNGEHZVDkr7qFy/L6D8F6lCng=\""
+          "Value": "\"92RwNglGeJUEtDhpcfvc++a+AGSU0mKPt6LKKpL4H4o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14294,11 +14294,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lohqcto3co"
+          "Value": "fgzh8v6uh7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-F3TzMJfukJQJN8m5LXtNGEHZVDkr7qFy/L6D8F6lCng="
+          "Value": "sha256-92RwNglGeJUEtDhpcfvc++a+AGSU0mKPt6LKKpL4H4o="
         },
         {
           "Name": "label",
@@ -14308,7 +14308,7 @@
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.pdb",
-      "AssetFile": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb",
+      "AssetFile": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14329,28 +14329,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc=\""
+          "Value": "\"v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc="
+          "Value": "sha256-v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.pdb",
-      "AssetFile": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000032599837"
+          "Quality": "0.000032597712"
         }
       ],
       "ResponseHeaders": [
@@ -14368,7 +14368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30674"
+          "Value": "30676"
         },
         {
           "Name": "Content-Type",
@@ -14376,15 +14376,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F3TzMJfukJQJN8m5LXtNGEHZVDkr7qFy/L6D8F6lCng=\""
+          "Value": "\"92RwNglGeJUEtDhpcfvc++a+AGSU0mKPt6LKKpL4H4o=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc=\""
+          "Value": "W/\"v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14394,13 +14394,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+8P0TTGjIWqJ5bPQA5tPc1CjDPfE6XgOuBB3tKzRjHc="
+          "Value": "sha256-v5F2qjHnMvkhIcKGFwU9WcchIg4Jjh5M+xNmrFsomqk="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.pdb.gz",
-      "AssetFile": "_framework/NurBilgi.WebPanel.lohqcto3co.pdb.gz",
+      "AssetFile": "_framework/NurBilgi.WebPanel.fgzh8v6uh7.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14417,7 +14417,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30674"
+          "Value": "30676"
         },
         {
           "Name": "Content-Type",
@@ -14425,11 +14425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F3TzMJfukJQJN8m5LXtNGEHZVDkr7qFy/L6D8F6lCng=\""
+          "Value": "\"92RwNglGeJUEtDhpcfvc++a+AGSU0mKPt6LKKpL4H4o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14439,13 +14439,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F3TzMJfukJQJN8m5LXtNGEHZVDkr7qFy/L6D8F6lCng="
+          "Value": "sha256-92RwNglGeJUEtDhpcfvc++a+AGSU0mKPt6LKKpL4H4o="
         }
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm",
-      "AssetFile": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm",
+      "Route": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm",
+      "AssetFile": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14466,21 +14466,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk=\""
+          "Value": "\"PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qflag3tj73"
+          "Value": "qxwyjhzq3w"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk="
+          "Value": "sha256-PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0="
         },
         {
           "Name": "label",
@@ -14489,13 +14489,13 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm",
-      "AssetFile": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm.gz",
+      "Route": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm",
+      "AssetFile": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000050748541"
+          "Quality": "0.000050753692"
         }
       ],
       "ResponseHeaders": [
@@ -14513,7 +14513,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19704"
+          "Value": "19702"
         },
         {
           "Name": "Content-Type",
@@ -14521,15 +14521,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qtj6R1L51fcP0WCanRclzrL/7ijroIPK2CA77aW13Ks=\""
+          "Value": "\"JKIZvGy5E5h94t792CY5bONuIX/4PhbBe17OrjaAA2s=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk=\""
+          "Value": "W/\"PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14539,11 +14539,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qflag3tj73"
+          "Value": "qxwyjhzq3w"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk="
+          "Value": "sha256-PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0="
         },
         {
           "Name": "label",
@@ -14552,8 +14552,8 @@
       ]
     },
     {
-      "Route": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm.gz",
-      "AssetFile": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm.gz",
+      "Route": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14570,7 +14570,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19704"
+          "Value": "19702"
         },
         {
           "Name": "Content-Type",
@@ -14578,11 +14578,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qtj6R1L51fcP0WCanRclzrL/7ijroIPK2CA77aW13Ks=\""
+          "Value": "\"JKIZvGy5E5h94t792CY5bONuIX/4PhbBe17OrjaAA2s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14592,11 +14592,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qflag3tj73"
+          "Value": "qxwyjhzq3w"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Qtj6R1L51fcP0WCanRclzrL/7ijroIPK2CA77aW13Ks="
+          "Value": "sha256-JKIZvGy5E5h94t792CY5bONuIX/4PhbBe17OrjaAA2s="
         },
         {
           "Name": "label",
@@ -14606,7 +14606,7 @@
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.wasm",
-      "AssetFile": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm",
+      "AssetFile": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14627,28 +14627,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk=\""
+          "Value": "\"PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk="
+          "Value": "sha256-PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.wasm",
-      "AssetFile": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000050748541"
+          "Quality": "0.000050753692"
         }
       ],
       "ResponseHeaders": [
@@ -14666,7 +14666,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19704"
+          "Value": "19702"
         },
         {
           "Name": "Content-Type",
@@ -14674,15 +14674,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qtj6R1L51fcP0WCanRclzrL/7ijroIPK2CA77aW13Ks=\""
+          "Value": "\"JKIZvGy5E5h94t792CY5bONuIX/4PhbBe17OrjaAA2s=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk=\""
+          "Value": "W/\"PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14692,13 +14692,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+ugHRryZn1rUhdtUWFTaHsx4pkBgVTZzpyBi2ABOkCk="
+          "Value": "sha256-PmJpK+aSkGUnd89+T177EBSIyVxQQp4rCZMXn4ynnm0="
         }
       ]
     },
     {
       "Route": "_framework/NurBilgi.WebPanel.wasm.gz",
-      "AssetFile": "_framework/NurBilgi.WebPanel.qflag3tj73.wasm.gz",
+      "AssetFile": "_framework/NurBilgi.WebPanel.qxwyjhzq3w.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14715,7 +14715,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19704"
+          "Value": "19702"
         },
         {
           "Name": "Content-Type",
@@ -14723,11 +14723,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qtj6R1L51fcP0WCanRclzrL/7ijroIPK2CA77aW13Ks=\""
+          "Value": "\"JKIZvGy5E5h94t792CY5bONuIX/4PhbBe17OrjaAA2s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         },
         {
           "Name": "Vary",
@@ -14737,7 +14737,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qtj6R1L51fcP0WCanRclzrL/7ijroIPK2CA77aW13Ks="
+          "Value": "sha256-JKIZvGy5E5h94t792CY5bONuIX/4PhbBe17OrjaAA2s="
         }
       ]
     },
@@ -63338,17 +63338,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y7ofTpgcPNt+jxj9gOxAJXxgUAtMMfKUzfrqCC4C6nw=\""
+          "Value": "\"B5Cl1UP188Qw4suRtA4eDPpAaQfh+UgudGPGDS5H6JU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:53:25 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y7ofTpgcPNt+jxj9gOxAJXxgUAtMMfKUzfrqCC4C6nw="
+          "Value": "sha256-B5Cl1UP188Qw4suRtA4eDPpAaQfh+UgudGPGDS5H6JU="
         }
       ]
     },
@@ -63359,7 +63359,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000072880985"
+          "Quality": "0.000072859745"
         }
       ],
       "ResponseHeaders": [
@@ -63377,7 +63377,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13720"
+          "Value": "13724"
         },
         {
           "Name": "Content-Type",
@@ -63385,15 +63385,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P67kssbTuNbp4XY5LakIxu0+d14sLsTmzGecOY+fLJ4=\""
+          "Value": "\"08x/KYj599+t9ehbficAIrsgFq3sF2ZkipLA5mIfi+M=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"y7ofTpgcPNt+jxj9gOxAJXxgUAtMMfKUzfrqCC4C6nw=\""
+          "Value": "W/\"B5Cl1UP188Qw4suRtA4eDPpAaQfh+UgudGPGDS5H6JU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:44:46 GMT"
         },
         {
           "Name": "Vary",
@@ -63403,7 +63403,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y7ofTpgcPNt+jxj9gOxAJXxgUAtMMfKUzfrqCC4C6nw="
+          "Value": "sha256-B5Cl1UP188Qw4suRtA4eDPpAaQfh+UgudGPGDS5H6JU="
         }
       ]
     },
@@ -63426,7 +63426,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13720"
+          "Value": "13724"
         },
         {
           "Name": "Content-Type",
@@ -63434,11 +63434,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P67kssbTuNbp4XY5LakIxu0+d14sLsTmzGecOY+fLJ4=\""
+          "Value": "\"08x/KYj599+t9ehbficAIrsgFq3sF2ZkipLA5mIfi+M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:44:46 GMT"
         },
         {
           "Name": "Vary",
@@ -63448,7 +63448,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P67kssbTuNbp4XY5LakIxu0+d14sLsTmzGecOY+fLJ4="
+          "Value": "sha256-08x/KYj599+t9ehbficAIrsgFq3sF2ZkipLA5mIfi+M="
         }
       ]
     },
@@ -63530,7 +63530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Fri, 17 Jan 2025 20:14:04 GMT"
         },
         {
           "Name": "Vary",
@@ -63575,7 +63575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Fri, 17 Jan 2025 20:14:04 GMT"
         },
         {
           "Name": "Vary",
@@ -63675,7 +63675,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -63728,7 +63728,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -63828,7 +63828,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -63928,7 +63928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -63981,7 +63981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -64034,7 +64034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -64126,7 +64126,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -64171,7 +64171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Vary",
@@ -64959,7 +64959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Vary",
@@ -65012,7 +65012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Vary",
@@ -65157,7 +65157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Vary",
@@ -65202,7 +65202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Vary",
@@ -65378,8 +65378,8 @@
       ]
     },
     {
-      "Route": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm",
-      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm",
+      "Route": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm",
+      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65400,21 +65400,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE=\""
+          "Value": "\"kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jvtfkr5cvj"
+          "Value": "a9yo5rxbfg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE="
+          "Value": "sha256-kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM="
         },
         {
           "Name": "label",
@@ -65423,13 +65423,13 @@
       ]
     },
     {
-      "Route": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm",
-      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm.gz",
+      "Route": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm",
+      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000557413601"
+          "Quality": "0.000557103064"
         }
       ],
       "ResponseHeaders": [
@@ -65447,7 +65447,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1793"
+          "Value": "1794"
         },
         {
           "Name": "Content-Type",
@@ -65455,15 +65455,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XTiAUwo5sj2cHUPo+0gubaGSN/3ZLihNaHBQI48o1yo=\""
+          "Value": "\"Ho3vo+NV6mIvMbemGwpJF9yCjOsMauzt5GbDXf0KVqY=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE=\""
+          "Value": "W/\"kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -65473,11 +65473,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jvtfkr5cvj"
+          "Value": "a9yo5rxbfg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE="
+          "Value": "sha256-kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM="
         },
         {
           "Name": "label",
@@ -65486,8 +65486,8 @@
       ]
     },
     {
-      "Route": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm.gz",
-      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm.gz",
+      "Route": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm.gz",
+      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65504,7 +65504,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1793"
+          "Value": "1794"
         },
         {
           "Name": "Content-Type",
@@ -65512,11 +65512,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XTiAUwo5sj2cHUPo+0gubaGSN/3ZLihNaHBQI48o1yo=\""
+          "Value": "\"Ho3vo+NV6mIvMbemGwpJF9yCjOsMauzt5GbDXf0KVqY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -65526,11 +65526,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jvtfkr5cvj"
+          "Value": "a9yo5rxbfg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XTiAUwo5sj2cHUPo+0gubaGSN/3ZLihNaHBQI48o1yo="
+          "Value": "sha256-Ho3vo+NV6mIvMbemGwpJF9yCjOsMauzt5GbDXf0KVqY="
         },
         {
           "Name": "label",
@@ -65540,7 +65540,7 @@
     },
     {
       "Route": "_framework/en-US/NurBilgi.Application.resources.wasm",
-      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm",
+      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65561,28 +65561,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE=\""
+          "Value": "\"kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE="
+          "Value": "sha256-kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM="
         }
       ]
     },
     {
       "Route": "_framework/en-US/NurBilgi.Application.resources.wasm",
-      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm.gz",
+      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000557413601"
+          "Quality": "0.000557103064"
         }
       ],
       "ResponseHeaders": [
@@ -65600,7 +65600,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1793"
+          "Value": "1794"
         },
         {
           "Name": "Content-Type",
@@ -65608,15 +65608,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XTiAUwo5sj2cHUPo+0gubaGSN/3ZLihNaHBQI48o1yo=\""
+          "Value": "\"Ho3vo+NV6mIvMbemGwpJF9yCjOsMauzt5GbDXf0KVqY=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE=\""
+          "Value": "W/\"kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -65626,13 +65626,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AYvzHE28U7iJtVAzzefeg4QqrKq8JnBftwoG+x3R6jE="
+          "Value": "sha256-kvvBhZicPI3cyDYRIgGS6NmTHKTtKHRoDWEUrFANhWM="
         }
       ]
     },
     {
       "Route": "_framework/en-US/NurBilgi.Application.resources.wasm.gz",
-      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.jvtfkr5cvj.wasm.gz",
+      "AssetFile": "_framework/en-US/NurBilgi.Application.resources.a9yo5rxbfg.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65649,7 +65649,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1793"
+          "Value": "1794"
         },
         {
           "Name": "Content-Type",
@@ -65657,11 +65657,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XTiAUwo5sj2cHUPo+0gubaGSN/3ZLihNaHBQI48o1yo=\""
+          "Value": "\"Ho3vo+NV6mIvMbemGwpJF9yCjOsMauzt5GbDXf0KVqY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -65671,7 +65671,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XTiAUwo5sj2cHUPo+0gubaGSN/3ZLihNaHBQI48o1yo="
+          "Value": "sha256-Ho3vo+NV6mIvMbemGwpJF9yCjOsMauzt5GbDXf0KVqY="
         }
       ]
     },
@@ -67166,8 +67166,8 @@
       ]
     },
     {
-      "Route": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm",
-      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm",
+      "Route": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm",
+      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -67188,21 +67188,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs=\""
+          "Value": "\"9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8zaw1r84zs"
+          "Value": "oxhdil4wxi"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs="
+          "Value": "sha256-9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y="
         },
         {
           "Name": "label",
@@ -67211,13 +67211,13 @@
       ]
     },
     {
-      "Route": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm",
-      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm.gz",
+      "Route": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm",
+      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000553097345"
+          "Quality": "0.000552791598"
         }
       ],
       "ResponseHeaders": [
@@ -67235,7 +67235,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1807"
+          "Value": "1808"
         },
         {
           "Name": "Content-Type",
@@ -67243,15 +67243,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kLZ7rMLv2wOMr7CFBpE1lYm8k/amNYcw6pwEb3E0PX8=\""
+          "Value": "\"+yjs5r4NcSKeAm8aazGuXteXQ0sF9e8lnT/xd+BPV1c=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs=\""
+          "Value": "W/\"9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -67261,11 +67261,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8zaw1r84zs"
+          "Value": "oxhdil4wxi"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs="
+          "Value": "sha256-9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y="
         },
         {
           "Name": "label",
@@ -67274,8 +67274,8 @@
       ]
     },
     {
-      "Route": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm.gz",
-      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm.gz",
+      "Route": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm.gz",
+      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -67292,7 +67292,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1807"
+          "Value": "1808"
         },
         {
           "Name": "Content-Type",
@@ -67300,11 +67300,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kLZ7rMLv2wOMr7CFBpE1lYm8k/amNYcw6pwEb3E0PX8=\""
+          "Value": "\"+yjs5r4NcSKeAm8aazGuXteXQ0sF9e8lnT/xd+BPV1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -67314,11 +67314,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8zaw1r84zs"
+          "Value": "oxhdil4wxi"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kLZ7rMLv2wOMr7CFBpE1lYm8k/amNYcw6pwEb3E0PX8="
+          "Value": "sha256-+yjs5r4NcSKeAm8aazGuXteXQ0sF9e8lnT/xd+BPV1c="
         },
         {
           "Name": "label",
@@ -67328,7 +67328,7 @@
     },
     {
       "Route": "_framework/tr-TR/NurBilgi.Application.resources.wasm",
-      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm",
+      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -67349,28 +67349,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs=\""
+          "Value": "\"9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:47 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs="
+          "Value": "sha256-9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y="
         }
       ]
     },
     {
       "Route": "_framework/tr-TR/NurBilgi.Application.resources.wasm",
-      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm.gz",
+      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000553097345"
+          "Quality": "0.000552791598"
         }
       ],
       "ResponseHeaders": [
@@ -67388,7 +67388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1807"
+          "Value": "1808"
         },
         {
           "Name": "Content-Type",
@@ -67396,15 +67396,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kLZ7rMLv2wOMr7CFBpE1lYm8k/amNYcw6pwEb3E0PX8=\""
+          "Value": "\"+yjs5r4NcSKeAm8aazGuXteXQ0sF9e8lnT/xd+BPV1c=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs=\""
+          "Value": "W/\"9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -67414,13 +67414,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bJPLI9jmfiiXsF758G2TF4Xe8yw1xIwwEi7SdSydFKs="
+          "Value": "sha256-9F1MTwEy8CK9bGV7arQRucqpzED3m7CP/V03Qn+751Y="
         }
       ]
     },
     {
       "Route": "_framework/tr-TR/NurBilgi.Application.resources.wasm.gz",
-      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.8zaw1r84zs.wasm.gz",
+      "AssetFile": "_framework/tr-TR/NurBilgi.Application.resources.oxhdil4wxi.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -67437,7 +67437,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1807"
+          "Value": "1808"
         },
         {
           "Name": "Content-Type",
@@ -67445,11 +67445,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kLZ7rMLv2wOMr7CFBpE1lYm8k/amNYcw6pwEb3E0PX8=\""
+          "Value": "\"+yjs5r4NcSKeAm8aazGuXteXQ0sF9e8lnT/xd+BPV1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 23:02:54 GMT"
+          "Value": "Sun, 23 Mar 2025 00:39:35 GMT"
         },
         {
           "Name": "Vary",
@@ -67459,7 +67459,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kLZ7rMLv2wOMr7CFBpE1lYm8k/amNYcw6pwEb3E0PX8="
+          "Value": "sha256-+yjs5r4NcSKeAm8aazGuXteXQ0sF9e8lnT/xd+BPV1c="
         }
       ]
     },
