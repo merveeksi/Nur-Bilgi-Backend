@@ -18,6 +18,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="Common\Exceptions\" />
       <Folder Include="Features\AiChatMessages\Commands\Update\" />
       <Folder Include="Features\AiChatMessages\Queries\GetAll\" />
       <Folder Include="Features\Customers\Commands\Create\" />

@@ -7,27 +7,31 @@ generator client {
   provider = "prisma-client-js"
 }
 
-model Ilmihal {
-  id         String           @id @default(cuid())
-  title      String
-  author     String
+model Catechism {
+  id          String             @id @default(cuid())
+  bookName    String
+  authorName  String
+  title       String
   description String
-  sections   IlmihalSection[]
+  tags        String
+  createdAt   DateTime?          @default(now())
+  updatedAt   DateTime?          @updatedAt
+  sections    CatechismSection[]
 }
 
-model IlmihalSection {
-  id          String            @id @default(cuid())
+model CatechismSection {
+  id          String              @id @default(cuid())
   title       String
   content     String
-  subsections IlmihalSubsection[]
-  ilmihalId   String
-  ilmihal     Ilmihal           @relation(fields: [ilmihalId], references: [id])
+  subsections CatechismSubsection[]
+  catechismId String
+  catechism   Catechism           @relation(fields: [catechismId], references: [id])
 }
 
-model IlmihalSubsection {
-  id        String         @id @default(cuid())
-  title     String
-  content   String
-  sectionId String
-  section   IlmihalSection @relation(fields: [sectionId], references: [id])
+model CatechismSubsection {
+  id         String              @id @default(cuid())
+  title      String
+  content    String
+  sectionId  String
+  section    CatechismSection    @relation(fields: [sectionId], references: [id])
 }

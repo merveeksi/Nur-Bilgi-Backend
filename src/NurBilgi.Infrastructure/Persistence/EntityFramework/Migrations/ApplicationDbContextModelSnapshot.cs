@@ -90,6 +90,67 @@ namespace NurBilgi.Infrastructure.Persistence.EntityFramework.Migrations
                     b.ToTable("ai-chat-messages", (string)null);
                 });
 
+            modelBuilder.Entity("NurBilgi.Domain.Entities.Catechism", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<long>("Id"));
+
+                    b.Property<string>("AuthorName")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("character varying(200)")
+                        .HasColumnName("author_name");
+
+                    b.Property<string>("BookName")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("character varying(200)")
+                        .HasColumnName("book_name");
+
+                    b.Property<DateTimeOffset?>("CreatedAt")
+                        .HasColumnType("timestamp with time zone")
+                        .HasColumnName("created_at");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("description");
+
+                    b.Property<string>("Tags")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("character varying(500)")
+                        .HasColumnName("tags");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("character varying(200)")
+                        .HasColumnName("title");
+
+                    b.Property<DateTimeOffset?>("UpdatedAt")
+                        .HasColumnType("timestamp with time zone")
+                        .HasColumnName("updated_at");
+
+                    b.HasKey("Id")
+                        .HasName("pk_catechisms");
+
+                    b.HasIndex("AuthorName")
+                        .HasDatabaseName("ix_catechisms_author_name");
+
+                    b.HasIndex("BookName")
+                        .HasDatabaseName("ix_catechisms_book_name");
+
+                    b.HasIndex("Tags")
+                        .HasDatabaseName("ix_catechisms_tags");
+
+                    b.ToTable("catechisms", (string)null);
+                });
+
             modelBuilder.Entity("NurBilgi.Domain.Entities.Customer", b =>
                 {
                     b.Property<long>("Id")

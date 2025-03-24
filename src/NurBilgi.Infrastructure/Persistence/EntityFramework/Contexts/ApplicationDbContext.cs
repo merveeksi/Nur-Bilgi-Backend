@@ -24,6 +24,7 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser, Applicati
     public DbSet<PrayerTime> PrayerTimes { get; set; }
     public DbSet<Surah> Surahs { get; set; }
     public DbSet<Customer> Customers { get; set; }
+    public DbSet<Catechism> Catechisms { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

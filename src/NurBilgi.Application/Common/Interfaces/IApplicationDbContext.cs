@@ -12,6 +12,7 @@ public interface IApplicationDbContext
     public DbSet<PrayerTime> PrayerTimes { get; set; }
     public DbSet<Surah> Surahs { get; set; }
     public DbSet<Customer> Customers { get; set; }
+    public DbSet<Catechism> Catechisms { get; set; }
     
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     int SaveChanges();
