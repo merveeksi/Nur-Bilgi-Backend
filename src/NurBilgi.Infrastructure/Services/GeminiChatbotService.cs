@@ -38,38 +38,51 @@ namespace NurBilgi.Infrastructure.Services
             _logger.LogInformation("GeminiChatbotService başlatıldı. Endpoint: {EndpointName}", _endpointName);
         }
 
-       public async Task<string> GetResponseAsync(string prompt, CancellationToken cancellationToken = default)
+      public async Task<string> GetResponseAsync(string prompt, CancellationToken cancellationToken = default)
         {
             _logger.LogInformation("Gemini API'ye GenerateContentAsync ile istek gönderiliyor. Prompt: '{Prompt}'", prompt);
 
             try
             {
-                // GenerateContentRequest için içerik yapısını oluştur
-                var content = new Content
+                // Kullanıcının mesajını içeren Content nesnesi
+                var userContent = new Content
                 {
-                    Role = "user", // Rol "user" olmalı
+                    Role = "user",
                     Parts = { new Part { Text = prompt } }
                 };
 
-                // GenerateContentRequest nesnesini oluştur
+                // ---->> YENİ EKLENEN SİSTEM TALİMATI <<----
+                var systemInstruction = new Content
+                {
+                    // Sistem talimatı genellikle özel bir role sahip olmaz veya Parts olarak verilir.
+                    // Dokümantasyon SystemInstruction'ın Content tipinde olduğunu belirtiyor.
+                    // Sadece text içeren bir Part yeterli olacaktır.
+                    Parts = { new Part { Text = "Sen sadece İslami ve dini konularda soruları cevaplayan bir asistansın. Sorular yalnızca bu konularla ilgiliyse cevap ver. Diğer tüm konulardaki sorular için, o konuda bilgin olmadığını veya yardımcı olamayacağını belirt." } }
+                };
+                // ---->> ------------------------------ <<----
+
+
+                // GenerateContentRequest nesnesini oluştururken SystemInstruction'ı ekle
                 var request = new GenerateContentRequest
                 {
-                    // Endpoint yerine doğrudan model adı kullanılır
-                    Model = _endpointName, // _endpointName constructor'da oluşturulan tam model yolunu tutuyor olmalı
-                    Contents = { content }
-                    // GenerationConfig ekleyerek temperature, max tokens gibi parametreleri ayarlayabilirsiniz
-                    // GenerationConfig = new GenerationConfig { Temperature = 0.7f, MaxOutputTokens = 2048 }
+                    Model = _endpointName,
+                    // Sistem Talimatını buraya ekliyoruz
+                    SystemInstruction = systemInstruction,
+                    // Kullanıcının mevcut mesajını ekliyoruz
+                    Contents = { userContent }
+                    // İsteğe bağlı: Önceki mesajları da buraya ekleyerek sohbet geçmişi oluşturulabilir
+                    // Contents = { previousMessage1, previousMessage2, userContent }
+                    // GenerationConfig = new GenerationConfig { ... }
                 };
 
-                // PredictAsync yerine GenerateContentAsync çağırılır
+                // --- Geri kalan kod aynı ---
                 GenerateContentResponse response = await _predictionServiceClient.GenerateContentAsync(request, cancellationToken: cancellationToken);
+                // ... yanıtı parse etme ve döndürme kısmı ...
                 _logger.LogInformation("Gemini API'den yanıt alındı (GenerateContentAsync).");
 
-                // Yanıtı parse etme şekli GenerateContentResponse'a göre değişir
-                // Genellikle response.Candidates[0].Content.Parts[0].Text şeklinde olur
-                var responseText = response.Candidates.FirstOrDefault()? // İlk adayı al
-                                        .Content.Parts.FirstOrDefault()? // İçeriğin ilk parçasını al
-                                        .Text; // Metni al
+                var responseText = response.Candidates.FirstOrDefault()?
+                                        .Content.Parts.FirstOrDefault()?
+                                        .Text;
 
                 if (responseText != null)
                 {
@@ -78,19 +91,21 @@ namespace NurBilgi.Infrastructure.Services
                 }
                 else
                 {
-                    // Güvenlik nedeniyle veya başka bir sebeple yanıt gelmemiş olabilir
                     var blockReason = response.Candidates.FirstOrDefault()?.FinishReason;
                     var safetyRatings = response.Candidates.FirstOrDefault()?.SafetyRatings;
                     _logger.LogWarning("Gemini yanıtı metin içermiyor veya boş. BlockReason: {BlockReason}, SafetyRatings: {SafetyRatings}", blockReason, safetyRatings);
-                    return $"Modelden geçerli bir metin yanıtı alınamadı. (Sebep: {blockReason})";
+                    // Sistem talimatına uymadığı için boş cevap gelirse de bu loga düşebilir.
+                    // Kullanıcıya daha gene bir mesaj vermek daha iyi olabilir.
+                    // return $"Modelden geçerli bir metin yanıtı alınamadı. (Sebep: {blockReason})";
+                    return "Üzgünüm, şu an yardımcı olamıyorum veya bu konuda bilgim yok.";
                 }
             }
-            catch (Grpc.Core.RpcException ex)
+            catch (Grpc.Core.RpcException ex) // Hata yakalama aynı
             {
                 _logger.LogError(ex, "Gemini API çağrısı sırasında gRPC hatası oluştu (GenerateContentAsync). Status: {StatusCode}, Project: {ProjectId}, Model: {Model}", ex.StatusCode, _projectId, _endpointName);
                 return $"API ile iletişim kurulamadı (Hata Kodu: {ex.StatusCode}). Lütfen tekrar deneyin veya sistem yöneticisine başvurun.";
             }
-            catch (Exception ex)
+            catch (Exception ex) // Hata yakalama aynı
             {
                 _logger.LogError(ex, "Gemini yanıtı işlenirken beklenmedik bir hata oluştu (GenerateContentAsync). Project: {ProjectId}, Model: {Model}", _projectId, _endpointName);
                 return "İşlem sırasında beklenmedik bir sunucu hatası oluştu.";

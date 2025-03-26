@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NurBilgi.Application")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute(" ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd1893c75976cf3ab7481ecd3c1364642b13ee67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a1468d0298d7981482092aa254f26d0a1b3f372")]
 [assembly: System.Reflection.AssemblyProductAttribute("NurBilgi.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NurBilgi.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
