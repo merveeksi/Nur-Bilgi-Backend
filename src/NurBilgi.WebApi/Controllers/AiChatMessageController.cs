@@ -1,42 +1,59 @@
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using NurBilgi.Application.Features.AiChatMessages.Queries.GetAll;
-using NurBilgi.Application.Features.AiChatMessages.Queries.GetById;
+using NurBilgi.Application.Common.Interfaces;
+using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
 
-namespace NurBilgi.WebApi.Controllers
-{
-    [Route("api/[controller]")]
-    [ApiController]
-    public class AiChatMessagesController : ControllerBase
+namespace NurBilgi.WebApi.Controllers;
+
+[ApiController]
+[Route("api/[controller]")]
+    public class AiChatMessageController : ControllerBase
     {
-        private readonly ISender _mediator;
+        private readonly IChatbotService _chatbotService;
+        private readonly ILogger<AiChatMessageController> _logger;
 
-        public AiChatMessagesController(ISender mediator)
+        public AiChatMessageController(IChatbotService chatbotService, ILogger<AiChatMessageController> logger)
         {
-            _mediator = mediator;
-        }
-        
-        [HttpGet]
-        public async Task<ActionResult<List<AiChatMessageGetAllDto>>> GetAllAsync(CancellationToken cancellationToken)
-        {
-            var query = new GetAllAiChatMessagesQuery(
-                string.Empty, 
-                false, 
-                DateTimeOffset.UtcNow, 
-                0 // Default customer ID, replace with actual value if needed
-            );
-            var result = await _mediator.Send(query, cancellationToken);
-            return Ok(result);
+            _chatbotService = chatbotService;
+            _logger = logger;
         }
 
-        [HttpGet("{id}")]
-        public async Task<ActionResult<AiChatMessageGetByIdDto>> GetByIdAsync(long id, CancellationToken cancellationToken)
+        // Frontend'den POST isteği ile mesaj almak için bir endpoint (metot)
+        [HttpPost]
+        public async Task<IActionResult> PostMessage([FromBody] ChatRequest request, CancellationToken cancellationToken)
         {
-            var query = new AiChatMessageGetByIdQuery(id);
-            var result = await _mediator.Send(query, cancellationToken);
-            return Ok(result);
+            // Gelen isteği kontrol edelim
+            if (request == null || string.IsNullOrWhiteSpace(request.Message))
+            {
+                _logger.LogWarning("Chat isteği alınamadı veya mesaj boş.");
+                // Hatalı istek durumunda 400 Bad Request döndürelim
+                return BadRequest(new { Error = "Mesaj içeriği boş olamaz." });
+            }
+
+            try
+            {
+                _logger.LogInformation("Chat isteği alınıyor: '{UserMessage}'", request.Message);
+
+                // IChatbotService üzerinden Gemini'den yanıtı alalım
+                string response = await _chatbotService.GetResponseAsync(request.Message, cancellationToken);
+
+                _logger.LogInformation("Chat yanıtı gönderiliyor.");
+
+                // Başarılı yanıtı (200 OK) ve Gemini'nin cevabını JSON olarak döndürelim
+                return Ok(new { Reply = response });
+            }
+            catch (Exception ex)
+            {
+                // Beklenmedik bir hata olursa loglayalım ve 500 Internal Server Error döndürelim
+                _logger.LogError(ex, "Chat isteği işlenirken sunucu hatası oluştu.");
+                return StatusCode(500, new { Error = "Mesaj işlenirken bir sunucu hatası oluştu. Lütfen daha sonra tekrar deneyin." });
+            }
         }
     }
-}
+
+    // Frontend'den gelecek JSON isteğini temsil eden basit bir sınıf (DTO)
+    // Bu sınıfı ayrı bir dosyaya veya projenizde DTO'ları tuttuğunuz yere taşıyabilirsiniz.
+    public class ChatRequest
+    {
+        public string? Message { get; set; }
+    }

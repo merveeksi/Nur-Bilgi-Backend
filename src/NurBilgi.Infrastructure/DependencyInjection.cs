@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using NurBilgi.Application.Common.Interfaces;
 using NurBilgi.Domain.Identity;
+using NurBilgi.Domain.Interfaces;
 using NurBilgi.Domain.Settings;
 using NurBilgi.Infrastructure.Persistence.EntityFramework.Contexts;
 using NurBilgi.Infrastructure.Persistence.EntityFramework.Seeders;
@@ -55,6 +56,11 @@ public static class DependencyInjection
         
         // Register EmailService
         services.AddScoped<IEmailService, EmailService>();
+
+        // Register Paddle Payment Service
+        services.Configure<PaddleOptions>(configuration.GetSection("Paddle"));
+        services.AddHttpClient<PaddlePaymentService>();
+        services.AddScoped<IPaymentService, PaddlePaymentService>();
 
         return services;
 

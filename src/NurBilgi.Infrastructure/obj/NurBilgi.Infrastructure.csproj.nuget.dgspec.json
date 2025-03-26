@@ -216,6 +216,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Google.Cloud.AIPlatform.V1": {
+              "target": "Package",
+              "version": "[3.24.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.2, )"

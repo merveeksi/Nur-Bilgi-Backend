@@ -13,6 +13,7 @@ public interface IApplicationDbContext
     public DbSet<Surah> Surahs { get; set; }
     public DbSet<Customer> Customers { get; set; }
     public DbSet<Catechism> Catechisms { get; set; }
+    public DbSet<Message> Messages { get; set; }
     
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     int SaveChanges();

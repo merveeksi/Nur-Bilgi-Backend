@@ -35,3 +35,16 @@ model CatechismSubsection {
   sectionId  String
   section    CatechismSection    @relation(fields: [sectionId], references: [id])
 }
+
+model Message {
+  id          String      @id @default(cuid())
+  fullName    String
+  email       String
+  subject     String
+  content     String
+  senderId    String
+  receiverId  String
+  isRead      Boolean     @default(false)
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime?   @updatedAt
+}
