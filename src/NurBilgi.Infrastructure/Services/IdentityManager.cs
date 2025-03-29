@@ -86,6 +86,9 @@ public sealed class IdentityManager: IIdentityService
         // JWT oluşturma isteği oluştur.
         var jwtRequest = new JwtGenerateTokenRequest(user.Id, user.Email, roles);
 
+        // "Beni hatırla" seçeneği dikkate alınacak şekilde değişiklikler backend'de yapılacaktır
+        // Burada tokenin ömrünü belirlemek için JwtSettings kullanılabilir
+        
         // JWT oluştur.
         var jwtResponse = _jwtService.GenerateToken(jwtRequest);
         

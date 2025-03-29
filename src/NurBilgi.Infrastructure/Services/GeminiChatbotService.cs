@@ -57,7 +57,7 @@ namespace NurBilgi.Infrastructure.Services
                     // Sistem talimatı genellikle özel bir role sahip olmaz veya Parts olarak verilir.
                     // Dokümantasyon SystemInstruction'ın Content tipinde olduğunu belirtiyor.
                     // Sadece text içeren bir Part yeterli olacaktır.
-                    Parts = { new Part { Text = "Sen sadece İslami ve dini konularda soruları cevaplayan bir asistansın. Sorular yalnızca bu konularla ilgiliyse cevap ver. Diğer tüm konulardaki sorular için, o konuda bilgin olmadığını veya yardımcı olamayacağını belirt." } }
+                    Parts = { new Part { Text = "Sen sadece İslami ve dini konularda soruları cevaplayan bir asistansın. Sorular yalnızca bu konularla ilgiliyse cevap ver. Diğer tüm konulardaki sorular için, o konuda bilgin olmadığını veya yardımcı olamayacağını belirt. Küfür etme, nazik ol." } }
                 };
                 // ---->> ------------------------------ <<----
 

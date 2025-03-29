@@ -9,6 +9,7 @@ using NurBilgi.WebApi.Filters;
 using NurBilgi.WebApi.Services;
 using Google.Cloud.AIPlatform.V1;
 using NurBilgi.Infrastructure.Services;
+using NurBilgi.WebApi.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -58,30 +59,22 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
     options.SuppressModelStateInvalidFilter = true;
 });
 
-var frontendUrl = builder.Configuration["FrontendUrl"];
-if (!string.IsNullOrWhiteSpace(frontendUrl))
-{
-    builder.Services.AddCors(options =>
-    {
-        options.AddPolicy("AllowSpecificOrigin",
-            policy =>
-            {
-                policy.WithOrigins(frontendUrl)
-                      .AllowAnyMethod()
-                      .AllowAnyHeader();
-            });
-    });
-}
-else
-{
-    Console.WriteLine("Uyarı: FrontendUrl yapılandırması eksik veya boş. CORS politikası uygulanmayacak veya kısıtlı olabilir.");
-     // İsteğe bağlı: Geliştirme ortamı için daha esnek bir politika eklenebilir
-     // builder.Services.AddCors(...);
-}
+builder.Services.AddSignalR();
 
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowNextJsApp",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:3000")
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials();
+        });
+    });
 
 var app = builder.Build();
-
 
 if (app.Environment.IsDevelopment())
 {
@@ -99,16 +92,15 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-if (!string.IsNullOrWhiteSpace(frontendUrl))
-{
-    app.UseCors("AllowSpecificOrigin");
-}
+app.UseCors("AllowNextJsApp");
 
 app.UseAuthentication();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapHub<NotificationHub>("/notificationHub");
 
 app.ApplyMigrations();
 
